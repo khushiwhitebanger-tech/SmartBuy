@@ -1,0 +1,3515 @@
+{
+  "products": [
+    {
+      "id": "sb-men-01",
+      "name": "Heavyweight Boxy Crewneck Tee",
+      "slug": "heavyweight-boxy-crewneck-tee",
+      "department": "men",
+      "category": "T-Shirts",
+      "collection": "Minimal Essentials",
+      "price": 999,
+      "originalPrice": 1499,
+      "discountPercent": 33,
+      "rating": 4.8,
+      "reviewCount": 142,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Warm Cream": 12,
+        "M_Warm Cream": 24,
+        "L_Warm Cream": 18,
+        "XL_Warm Cream": 10,
+        "XXL_Warm Cream": 6,
+        "S_Sand Beige": 8,
+        "M_Sand Beige": 16,
+        "L_Sand Beige": 20,
+        "XL_Sand Beige": 12,
+        "XXL_Sand Beige": 4,
+        "S_Olive Green": 10,
+        "M_Olive Green": 15,
+        "L_Olive Green": 12,
+        "XL_Olive Green": 8,
+        "XXL_Olive Green": 5,
+        "S_Jet Black": 14,
+        "M_Jet Black": 22,
+        "L_Jet Black": 19,
+        "XL_Jet Black": 11,
+        "XXL_Jet Black": 7
+      },
+      "totalStock": 232,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg"
+      ],
+      "description": "Constructed from a premium 260 GSM combed organic cotton, this boxy tee balances structured drape with breathable all-day comfort. Features reinforced collar ribbing and drop shoulders.",
+      "features": [
+        "260 GSM heavy organic cotton",
+        "Relaxed drop-shoulder silhouette",
+        "Preshrunk fabric with silicone wash",
+        "Blind-stitched hems"
+      ],
+      "fabricCare": "100% Organic Cotton. Machine wash cold with similar colors. Do not bleach. Tumble dry low or hang dry.",
+      "isBestSeller": true,
+      "isBundlePart": true,
+      "isTrending": true,
+      "createdAt": "2026-01-15T08:00:00Z"
+    },
+    {
+      "id": "sb-men-vneck-01",
+      "name": "WILORA Textured Waffle Johnny Collar V-Neck Polo",
+      "slug": "wilora-textured-waffle-johnny-collar-v-neck-polo",
+      "department": "men",
+      "category": "T-Shirts",
+      "collection": "Everyday Essentials",
+      "price": 1199,
+      "originalPrice": 1899,
+      "discountPercent": 37,
+      "rating": 4.9,
+      "reviewCount": 194,
+      "colors": [
+        {
+          "name": "Obsidian Black",
+          "hex": "#171715",
+          "image": "/images/vneck/vneck_black.jpeg"
+        },
+        {
+          "name": "Warm Camel Tan",
+          "hex": "#C19A6B",
+          "image": "/images/vneck/vneck_camel.jpeg"
+        },
+        {
+          "name": "Light Oat Cream",
+          "hex": "#DDCDB2",
+          "image": "/images/vneck/vneck_light_camel.jpeg"
+        },
+        {
+          "name": "Rich Maroon Burgundy",
+          "hex": "#5C1D24",
+          "image": "/images/vneck/vneck_maroon.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Obsidian Black": 14,
+        "M_Obsidian Black": 26,
+        "L_Obsidian Black": 20,
+        "XL_Obsidian Black": 12,
+        "XXL_Obsidian Black": 6,
+        "S_Warm Camel Tan": 12,
+        "M_Warm Camel Tan": 24,
+        "L_Warm Camel Tan": 18,
+        "XL_Warm Camel Tan": 10,
+        "XXL_Warm Camel Tan": 5,
+        "S_Light Oat Cream": 10,
+        "M_Light Oat Cream": 22,
+        "L_Light Oat Cream": 19,
+        "XL_Light Oat Cream": 11,
+        "XXL_Light Oat Cream": 4,
+        "S_Rich Maroon Burgundy": 15,
+        "M_Rich Maroon Burgundy": 25,
+        "L_Rich Maroon Burgundy": 21,
+        "XL_Rich Maroon Burgundy": 14,
+        "XXL_Rich Maroon Burgundy": 8
+      },
+      "totalStock": 247,
+      "images": [
+        "/images/vneck/vneck_black.jpeg",
+        "/images/vneck/vneck_camel.jpeg",
+        "/images/vneck/vneck_light_camel.jpeg",
+        "/images/vneck/vneck_maroon.jpeg",
+        "/T-shirtsVneck/blackWhatsApp Image 2026-10-20 at 8.01.18 PM4.jpeg.jpeg",
+        "/T-shirtsVneck/camelWhatsApp Image 2026-10-20 at 8.01.18 PM3.jpeg.jpeg"
+      ],
+      "description": "A benchmark in modern smart-casual refinement, this WILORA premium polo is crafted from an airy textured micro-waffle honeycomb knit. Accented with a structured contrast white Johnny V-neck open collar and matching tipped sleeve hems, finished with the signature embroidered stag insignia. Delivers luxurious breathability, supreme shape retention, and effortless styling from boardroom casual to weekend dinners.",
+      "features": [
+        "Breathable combed cotton micro-waffle honeycomb knit",
+        "Buttonless Johnny open V-neck collar with contrast spread lapel",
+        "Signature embroidered stag crest monogram on chest",
+        "Contrast white tipped short sleeve cuffs",
+        "Anti-shrinkage & shape-stabilized fabric finish",
+        "Pre-washed for cloud-soft hand feel"
+      ],
+      "fabricCare": "95% Combed Cotton, 5% Elastane. Machine wash cold gentle cycle with like colors. Do not bleach. Dry flat in shade. Cool iron on reverse.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T10:00:00Z"
+    },
+    {
+      "id": "sb-men-vneck-02",
+      "name": "WILORA Contrast Johnny Polo - Warm Camel Tan",
+      "slug": "wilora-contrast-johnny-polo-warm-camel-tan",
+      "department": "men",
+      "category": "T-Shirts",
+      "collection": "Everyday Essentials",
+      "price": 1199,
+      "originalPrice": 1899,
+      "discountPercent": 37,
+      "rating": 4.8,
+      "reviewCount": 148,
+      "colors": [
+        {
+          "name": "Warm Camel Tan",
+          "hex": "#C19A6B",
+          "image": "/images/vneck/vneck_camel.jpeg"
+        },
+        {
+          "name": "Obsidian Black",
+          "hex": "#171715",
+          "image": "/images/vneck/vneck_black.jpeg"
+        },
+        {
+          "name": "Light Oat Cream",
+          "hex": "#DDCDB2",
+          "image": "/images/vneck/vneck_light_camel.jpeg"
+        },
+        {
+          "name": "Rich Maroon Burgundy",
+          "hex": "#5C1D24",
+          "image": "/images/vneck/vneck_maroon.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Warm Camel Tan": 12,
+        "M_Warm Camel Tan": 24,
+        "L_Warm Camel Tan": 18,
+        "XL_Warm Camel Tan": 10,
+        "XXL_Warm Camel Tan": 5,
+        "S_Obsidian Black": 10,
+        "M_Obsidian Black": 18,
+        "L_Obsidian Black": 15,
+        "XL_Obsidian Black": 8,
+        "XXL_Obsidian Black": 4,
+        "S_Light Oat Cream": 8,
+        "M_Light Oat Cream": 16,
+        "L_Light Oat Cream": 14,
+        "XL_Light Oat Cream": 7,
+        "XXL_Light Oat Cream": 3,
+        "S_Rich Maroon Burgundy": 11,
+        "M_Rich Maroon Burgundy": 20,
+        "L_Rich Maroon Burgundy": 16,
+        "XL_Rich Maroon Burgundy": 9,
+        "XXL_Rich Maroon Burgundy": 5
+      },
+      "totalStock": 214,
+      "images": [
+        "/images/vneck/vneck_camel.jpeg",
+        "/images/vneck/vneck_black.jpeg",
+        "/images/vneck/vneck_light_camel.jpeg",
+        "/images/vneck/vneck_maroon.jpeg",
+        "/T-shirtsVneck/camelWhatsApp Image 2026-10-20 at 8.01.18 PM3.jpeg.jpeg"
+      ],
+      "description": "Impeccable warm camel tan edition of the WILORA waffle polo. Styled with an open Johnny V-collar and bright white tipping, this piece adds warmth and tactile texture to dark denim or tailored trousers.",
+      "features": [
+        "Warm camel tan shade with crisp contrast white open collar",
+        "Textured honeycomb waffle weave for superior ventilation",
+        "Embroidered chest stag emblem",
+        "Comfort stretch ribbing at sleeves",
+        "Retains crisp collar structure without curling"
+      ],
+      "fabricCare": "95% Combed Cotton, 5% Elastane. Machine wash cold with similar colors. Flat dry.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T10:15:00Z"
+    },
+    {
+      "id": "sb-men-vneck-03",
+      "name": "WILORA Contrast Johnny Polo - Light Oat Cream",
+      "slug": "wilora-contrast-johnny-polo-light-oat-cream",
+      "department": "men",
+      "category": "T-Shirts",
+      "collection": "Everyday Essentials",
+      "price": 1199,
+      "originalPrice": 1899,
+      "discountPercent": 37,
+      "rating": 4.9,
+      "reviewCount": 162,
+      "colors": [
+        {
+          "name": "Light Oat Cream",
+          "hex": "#DDCDB2",
+          "image": "/images/vneck/vneck_light_camel.jpeg"
+        },
+        {
+          "name": "Obsidian Black",
+          "hex": "#171715",
+          "image": "/images/vneck/vneck_black.jpeg"
+        },
+        {
+          "name": "Warm Camel Tan",
+          "hex": "#C19A6B",
+          "image": "/images/vneck/vneck_camel.jpeg"
+        },
+        {
+          "name": "Rich Maroon Burgundy",
+          "hex": "#5C1D24",
+          "image": "/images/vneck/vneck_maroon.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Light Oat Cream": 10,
+        "M_Light Oat Cream": 22,
+        "L_Light Oat Cream": 19,
+        "XL_Light Oat Cream": 11,
+        "XXL_Light Oat Cream": 4,
+        "S_Obsidian Black": 9,
+        "M_Obsidian Black": 17,
+        "L_Obsidian Black": 14,
+        "XL_Obsidian Black": 8,
+        "XXL_Obsidian Black": 4,
+        "S_Warm Camel Tan": 11,
+        "M_Warm Camel Tan": 20,
+        "L_Warm Camel Tan": 15,
+        "XL_Warm Camel Tan": 9,
+        "XXL_Warm Camel Tan": 4,
+        "S_Rich Maroon Burgundy": 10,
+        "M_Rich Maroon Burgundy": 19,
+        "L_Rich Maroon Burgundy": 15,
+        "XL_Rich Maroon Burgundy": 8,
+        "XXL_Rich Maroon Burgundy": 5
+      },
+      "totalStock": 215,
+      "images": [
+        "/images/vneck/vneck_light_camel.jpeg",
+        "/images/vneck/vneck_black.jpeg",
+        "/images/vneck/vneck_camel.jpeg",
+        "/images/vneck/vneck_maroon.jpeg",
+        "/T-shirtsVneck/litcamelWhatsApp Image 2026-10-20 at 8.01.17 PM.jpeg.jpeg"
+      ],
+      "description": "Clean, serene light oat cream waffle-knit Johnny polo with ivory contrast framing. Perfect for upscale summer brunches or resort evenings paired with relaxed linen trousers or cargo pants.",
+      "features": [
+        "Airy light oat cream hue with optical white collar & cuffs",
+        "Micro-waffle knit weave with premium tactile feel",
+        "Open V-neck notch polo neckline",
+        "Subtle white tonal embroidery",
+        "Naturally breathable all-day stretch"
+      ],
+      "fabricCare": "95% Combed Cotton, 5% Elastane. Machine wash cold. Do not tumble dry. Flat dry.",
+      "isBestSeller": false,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T10:30:00Z"
+    },
+    {
+      "id": "sb-men-vneck-04",
+      "name": "WILORA Contrast Johnny Polo - Rich Maroon Burgundy",
+      "slug": "wilora-contrast-johnny-polo-rich-maroon-burgundy",
+      "department": "men",
+      "category": "T-Shirts",
+      "collection": "Everyday Essentials",
+      "price": 1199,
+      "originalPrice": 1899,
+      "discountPercent": 37,
+      "rating": 4.9,
+      "reviewCount": 175,
+      "colors": [
+        {
+          "name": "Rich Maroon Burgundy",
+          "hex": "#5C1D24",
+          "image": "/images/vneck/vneck_maroon.jpeg"
+        },
+        {
+          "name": "Obsidian Black",
+          "hex": "#171715",
+          "image": "/images/vneck/vneck_black.jpeg"
+        },
+        {
+          "name": "Warm Camel Tan",
+          "hex": "#C19A6B",
+          "image": "/images/vneck/vneck_camel.jpeg"
+        },
+        {
+          "name": "Light Oat Cream",
+          "hex": "#DDCDB2",
+          "image": "/images/vneck/vneck_light_camel.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Rich Maroon Burgundy": 15,
+        "M_Rich Maroon Burgundy": 25,
+        "L_Rich Maroon Burgundy": 21,
+        "XL_Rich Maroon Burgundy": 14,
+        "XXL_Rich Maroon Burgundy": 8,
+        "S_Obsidian Black": 12,
+        "M_Obsidian Black": 20,
+        "L_Obsidian Black": 16,
+        "XL_Obsidian Black": 9,
+        "XXL_Obsidian Black": 5,
+        "S_Warm Camel Tan": 10,
+        "M_Warm Camel Tan": 18,
+        "L_Warm Camel Tan": 14,
+        "XL_Warm Camel Tan": 8,
+        "XXL_Warm Camel Tan": 4,
+        "S_Light Oat Cream": 9,
+        "M_Light Oat Cream": 17,
+        "L_Light Oat Cream": 13,
+        "XL_Light Oat Cream": 7,
+        "XXL_Light Oat Cream": 4
+      },
+      "totalStock": 245,
+      "images": [
+        "/images/vneck/vneck_maroon.jpeg",
+        "/images/vneck/vneck_black.jpeg",
+        "/images/vneck/vneck_camel.jpeg",
+        "/images/vneck/vneck_light_camel.jpeg",
+        "/T-shirtsVneck/maroonWhatsApp Image 2026-10-20 at 8.01.17 PM2.jpeg.jpeg"
+      ],
+      "description": "A striking statement piece in opulent rich maroon burgundy. Contrasted by a sharp white Johnny collar and matching cuffs, this polo balances athletic collegiate heritage with sartorial elegance.",
+      "features": [
+        "Deep maroon burgundy colorway with crisp white contrast",
+        "Articulated waffle-knit micro texture for thermal regulation",
+        "Open Johnny V-neck neckline without uncomfortable buttons",
+        "White embroidered WILORA stag motif",
+        "Superior colorfastness wash after wash"
+      ],
+      "fabricCare": "95% Combed Cotton, 5% Elastane. Machine wash cold with dark colors. Flat dry in shade.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T10:45:00Z"
+    },
+    {
+      "id": "sb-men-shirt-01",
+      "name": "Classic Vertical Striped Casual Shirt",
+      "slug": "classic-vertical-striped-casual-shirt",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Minimal Essentials",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discountPercent": 35,
+      "rating": 4.8,
+      "reviewCount": 168,
+      "colors": [
+        {
+          "name": "Navy & White Stripe",
+          "hex": "#1E293B",
+          "image": "/images/shirts/shirt_striped_navy.jpeg"
+        },
+        {
+          "name": "Maroon Wine & White Stripe",
+          "hex": "#6B1728",
+          "image": "/images/shirts/shirt_striped_maroon.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Navy & White Stripe": 12,
+        "M_Navy & White Stripe": 24,
+        "L_Navy & White Stripe": 18,
+        "XL_Navy & White Stripe": 10,
+        "XXL_Navy & White Stripe": 6,
+        "S_Maroon Wine & White Stripe": 14,
+        "M_Maroon Wine & White Stripe": 26,
+        "L_Maroon Wine & White Stripe": 20,
+        "XL_Maroon Wine & White Stripe": 12,
+        "XXL_Maroon Wine & White Stripe": 7
+      },
+      "totalStock": 149,
+      "images": [
+        "/images/shirts/shirt_striped_navy.jpeg",
+        "/images/shirts/shirt_striped_maroon.jpeg",
+        "/stripedshirts/lineWhatsApp Image 2026-10-16 at 7.51.52 PMshirt,jpeg.jpeg",
+        "/stripedshirts/WhatsApp Image 2026-10-16 at 7.51.52 PMshirt-1.jpeg",
+        "/src/assets/images/shirt_striped_navy.jpeg"
+      ],
+      "description": "Elevate your everyday rotation with this crisp vertical striped shirt, tailored from premium breathable combed cotton. Features a structured point collar, long roll-up sleeves with dual button cuffs, and a curved hem that sits cleanly whether tucked into chinos or worn loose over jeans.",
+      "features": [
+        "100% Breathable Combed Cotton",
+        "Crisp vertical pinstripe silhouette",
+        "Long sleeves with convertible button cuffs",
+        "Curved hemline for versatile styling",
+        "Reinforced stitch collar & cuffs"
+      ],
+      "fabricCare": "100% Cotton. Machine wash cold with similar colors. Medium warm iron.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-18T10:00:00Z"
+    },
+    {
+      "id": "sb-men-shirt-02",
+      "name": "Satin Touch Slim-Fit Luxury Shirt - Deep Wine",
+      "slug": "satin-touch-slim-fit-luxury-shirt-deep-wine",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Minimal Essentials",
+      "price": 1499,
+      "originalPrice": 2299,
+      "discountPercent": 35,
+      "rating": 4.9,
+      "reviewCount": 214,
+      "colors": [
+        {
+          "name": "Deep Wine",
+          "hex": "#581825",
+          "image": "/images/shirts/shirt_wine_burgundy.jpeg"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "#133E2B",
+          "image": "/images/shirts/shirt_emerald_green.jpeg"
+        },
+        {
+          "name": "Royal Navy",
+          "hex": "#172554",
+          "image": "/images/shirts/shirt_royal_navy.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Deep Wine": 14,
+        "M_Deep Wine": 28,
+        "L_Deep Wine": 22,
+        "XL_Deep Wine": 15,
+        "XXL_Deep Wine": 8,
+        "S_Forest Green": 10,
+        "M_Forest Green": 20,
+        "L_Forest Green": 18,
+        "XL_Forest Green": 12,
+        "XXL_Forest Green": 6,
+        "S_Royal Navy": 12,
+        "M_Royal Navy": 22,
+        "L_Royal Navy": 20,
+        "XL_Royal Navy": 14,
+        "XXL_Royal Navy": 7
+      },
+      "totalStock": 191,
+      "images": [
+        "/images/shirts/shirt_wine_burgundy.jpeg",
+        "/images/shirts/shirt_emerald_green.jpeg",
+        "/images/shirts/shirt_royal_navy.jpeg",
+        "/Shirts/WhatsApp Image 2026-10-16 at 7.51.52 PMshirt,jpeg.jpeg"
+      ],
+      "description": "Exquisitely tailored slim-fit shirt made with high-density cotton-satin blend with a rich, radiant wine finish. Designed with clean shoulder lines, spread collar, and sleek button placket for formal galas, celebrations, or smart evening occasions.",
+      "features": [
+        "High-density combed cotton satin weave",
+        "Tailored modern slim silhouette",
+        "Formal spread collar with permanent stays",
+        "Pre-shrunk with anti-wrinkle finishing",
+        "Tone-on-tone buttons"
+      ],
+      "fabricCare": "Combed Cotton-Satin. Machine wash cold gentle cycle. Warm steam iron on reverse.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-19T12:00:00Z"
+    },
+    {
+      "id": "sb-men-shirt-03",
+      "name": "Tailored Tapered Cotton Shirt - Forest Green",
+      "slug": "tailored-tapered-cotton-shirt-forest-green",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Casual Comfort",
+      "price": 1499,
+      "originalPrice": 2299,
+      "discountPercent": 35,
+      "rating": 4.8,
+      "reviewCount": 153,
+      "colors": [
+        {
+          "name": "Forest Green",
+          "hex": "#133E2B",
+          "image": "/images/shirts/shirt_emerald_green.jpeg"
+        },
+        {
+          "name": "Deep Wine",
+          "hex": "#581825",
+          "image": "/images/shirts/shirt_wine_burgundy.jpeg"
+        },
+        {
+          "name": "Royal Navy",
+          "hex": "#172554",
+          "image": "/images/shirts/shirt_royal_navy.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Forest Green": 10,
+        "M_Forest Green": 22,
+        "L_Forest Green": 18,
+        "XL_Forest Green": 11,
+        "XXL_Forest Green": 5,
+        "S_Deep Wine": 12,
+        "M_Deep Wine": 20,
+        "L_Deep Wine": 16,
+        "XL_Deep Wine": 10,
+        "XXL_Deep Wine": 6,
+        "S_Royal Navy": 9,
+        "M_Royal Navy": 18,
+        "L_Royal Navy": 15,
+        "XL_Royal Navy": 8,
+        "XXL_Royal Navy": 4
+      },
+      "totalStock": 167,
+      "images": [
+        "/images/shirts/shirt_emerald_green.jpeg",
+        "/images/shirts/shirt_wine_burgundy.jpeg",
+        "/images/shirts/shirt_royal_navy.jpeg",
+        "/Shirts/WhatsApp Image 2026-10-16 at 7.51.52 PMshirt,jpeg (2).jpeg"
+      ],
+      "description": "Distinctive forest green shirt balancing tailored polish with all-day comfort. Engineered with fine cotton, contoured back darts, and an ultra-soft collar for modern versatile styling.",
+      "features": [
+        "High-Grade fine combed cotton",
+        "Contoured back darts for sharp drape",
+        "Soft micro-fused spread collar",
+        "Color-lock dyeing technology"
+      ],
+      "fabricCare": "Cotton blend. Machine wash cold, hang dry in shade. Warm iron.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-17T08:30:00Z"
+    },
+    {
+      "id": "sb-men-shirt-04",
+      "name": "Classic Vertical Striped Shirt - Maroon & White",
+      "slug": "classic-vertical-striped-shirt-maroon-wine-white",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Minimal Essentials",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discountPercent": 35,
+      "rating": 4.8,
+      "reviewCount": 172,
+      "colors": [
+        {
+          "name": "Maroon Wine & White Stripe",
+          "hex": "#6B1728",
+          "image": "/images/shirts/shirt_striped_maroon.jpeg"
+        },
+        {
+          "name": "Navy & White Stripe",
+          "hex": "#1E293B",
+          "image": "/images/shirts/shirt_striped_navy.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Maroon Wine & White Stripe": 14,
+        "M_Maroon Wine & White Stripe": 26,
+        "L_Maroon Wine & White Stripe": 20,
+        "XL_Maroon Wine & White Stripe": 12,
+        "XXL_Maroon Wine & White Stripe": 7,
+        "S_Navy & White Stripe": 10,
+        "M_Navy & White Stripe": 20,
+        "L_Navy & White Stripe": 16,
+        "XL_Navy & White Stripe": 9,
+        "XXL_Navy & White Stripe": 5
+      },
+      "totalStock": 139,
+      "images": [
+        "/images/shirts/shirt_striped_maroon.jpeg",
+        "/images/shirts/shirt_striped_navy.jpeg",
+        "/stripedshirts/lineWhatsApp Image 2026-10-16 at 7.51.52 PMshirt,jpeg.jpeg",
+        "/stripedshirts/WhatsApp Image 2026-10-16 at 7.51.52 PMshirt-1.jpeg"
+      ],
+      "description": "Cut from fine combed breathable cotton, this sharp vertical pinstripe shirt in rich maroon wine and optic white delivers an elongated, flattering silhouette. Features a structured point collar, long roll-up sleeves with convertible cuffs, and a curved hem tailored for both tucked and untucked styling.",
+      "features": [
+        "100% Breathable Combed Cotton",
+        "Crisp vertical pinstripe tailoring in deep maroon",
+        "Long sleeves with convertible button cuffs",
+        "Curved hemline for effortless layering",
+        "Reinforced stitch collar & cuffs"
+      ],
+      "fabricCare": "100% Cotton. Machine wash cold with like colors. Medium iron.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-21T09:00:00Z"
+    },
+    {
+      "id": "sb-men-shirt-05",
+      "name": "Cot N Zip Windowpane Plaid Cotton Shirt - Sage Mint",
+      "slug": "cot-n-zip-windowpane-plaid-cotton-shirt-sage-mint",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Casual Comfort",
+      "price": 1399,
+      "originalPrice": 2199,
+      "discountPercent": 36,
+      "rating": 4.9,
+      "reviewCount": 145,
+      "colors": [
+        {
+          "name": "Sage Mint Check",
+          "hex": "#7DA88E",
+          "image": "/images/shirts/shirt_checked_sage_green.jpeg"
+        },
+        {
+          "name": "Slate Charcoal Check",
+          "hex": "#3E464D",
+          "image": "/images/shirts/shirt_checked_charcoal.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Sage Mint Check": 12,
+        "M_Sage Mint Check": 24,
+        "L_Sage Mint Check": 20,
+        "XL_Sage Mint Check": 11,
+        "XXL_Sage Mint Check": 6,
+        "S_Slate Charcoal Check": 10,
+        "M_Slate Charcoal Check": 18,
+        "L_Slate Charcoal Check": 15,
+        "XL_Slate Charcoal Check": 8,
+        "XXL_Slate Charcoal Check": 4
+      },
+      "totalStock": 128,
+      "images": [
+        "/images/shirts/shirt_checked_sage_green.jpeg",
+        "/images/shirts/shirt_checked_charcoal.jpeg",
+        "/CheckedShirts/chgreenWhatsApp Image 2026-10-20 at 8.01.19 PM5.jpeg.jpeg"
+      ],
+      "description": "From the Cot N Zip Classic Collection, this premium woven button-up shirt is crafted from yarn-dyed combed cotton in an elegant sage mint green and ivory windowpane check. Features a reinforced spread collar, matched tonal buttons, and an ultra-smooth pre-shrunk finish that feels crisp yet soft from morning meetings to casual evenings.",
+      "features": [
+        "Yarn-dyed 100% combed cotton weave",
+        "Refined windowpane check pattern in sage mint",
+        "Stiffened spread collar that holds its shape",
+        "Tonal matched buttons with reinforced stitching",
+        "Pre-shrunk with anti-pilling wash"
+      ],
+      "fabricCare": "100% Combed Cotton. Machine wash cold gentle cycle. Warm iron.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-21T09:15:00Z"
+    },
+    {
+      "id": "sb-men-shirt-06",
+      "name": "Urban Tartan Plaid Casual Shirt - Slate Charcoal",
+      "slug": "urban-tartan-plaid-casual-shirt-slate-charcoal-black",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Urban Streetwear",
+      "price": 1399,
+      "originalPrice": 2199,
+      "discountPercent": 36,
+      "rating": 4.9,
+      "reviewCount": 186,
+      "colors": [
+        {
+          "name": "Slate Charcoal Check",
+          "hex": "#3E464D",
+          "image": "/images/shirts/shirt_checked_charcoal.jpeg"
+        },
+        {
+          "name": "Sage Mint Check",
+          "hex": "#7DA88E",
+          "image": "/images/shirts/shirt_checked_sage_green.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Slate Charcoal Check": 14,
+        "M_Slate Charcoal Check": 28,
+        "L_Slate Charcoal Check": 22,
+        "XL_Slate Charcoal Check": 12,
+        "XXL_Slate Charcoal Check": 7,
+        "S_Sage Mint Check": 11,
+        "M_Sage Mint Check": 20,
+        "L_Sage Mint Check": 17,
+        "XL_Sage Mint Check": 9,
+        "XXL_Sage Mint Check": 5
+      },
+      "totalStock": 145,
+      "images": [
+        "/images/shirts/shirt_checked_charcoal.jpeg",
+        "/images/shirts/shirt_checked_sage_green.jpeg",
+        "/CheckedShirts/chWhatsApp Image 2026-10-16 at 7.51.52 PMshirt,jpeg.jpeg"
+      ],
+      "description": "A staple of relaxed contemporary style, this tartan plaid shirt blends deep slate charcoal grey with rich black intersecting checks. Cut in a modern relaxed fit with long roll-up sleeves, functional chest patch pocket, and durable contrast buttons, making it the ideal top layer over tees or paired with tactical cargo pants.",
+      "features": [
+        "Durable medium-weight yarn-dyed cotton blend",
+        "Subtle micro-grid tartan plaid in slate charcoal",
+        "Functional chest utility patch pocket",
+        "Roll-up sleeves with secure button tab closures",
+        "Curved shirttail hem for versatile wear"
+      ],
+      "fabricCare": "Cotton blend. Machine wash cold inside out with dark colors. Hang dry in shade.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-21T09:30:00Z"
+    },
+    {
+      "id": "sb-men-02",
+      "name": "Relaxed Tailored Linen Shirt",
+      "slug": "relaxed-tailored-linen-shirt",
+      "department": "men",
+      "category": "Shirts",
+      "collection": "Minimal Essentials",
+      "price": 1899,
+      "originalPrice": 2699,
+      "discountPercent": 30,
+      "rating": 4.9,
+      "reviewCount": 98,
+      "colors": [
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "S_Sand Beige": 10,
+        "M_Sand Beige": 18,
+        "L_Sand Beige": 14,
+        "XL_Sand Beige": 8,
+        "S_Warm Cream": 12,
+        "M_Warm Cream": 15,
+        "L_Warm Cream": 16,
+        "XL_Warm Cream": 6,
+        "S_Olive Green": 6,
+        "M_Olive Green": 12,
+        "L_Olive Green": 10,
+        "XL_Olive Green": 4
+      },
+      "totalStock": 131,
+      "images": [
+        "/src/assets/images/product_linen_shirt_1792250335977.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "Pure French flax linen crafted with a modern relaxed cut. Ideal for Indian climates, providing exceptional breathability with an understated, elegant resort collar.",
+      "features": [
+        "100% Pure Normandy Flax Linen",
+        "Convertible camp collar",
+        "Mother-of-pearl finish buttons",
+        "Pre-washed for soft hand-feel"
+      ],
+      "fabricCare": "100% Linen. Machine wash cold on delicate cycle. Warm iron while damp or embrace natural wrinkles.",
+      "isBestSeller": true,
+      "createdAt": "2026-02-01T09:00:00Z"
+    },
+    {
+      "id": "sb-men-03",
+      "name": "Pleated Straight Leg Chino Trousers",
+      "slug": "pleated-straight-leg-chino-trousers",
+      "department": "men",
+      "category": "Trousers",
+      "collection": "Casual Comfort",
+      "price": 1999,
+      "originalPrice": 2899,
+      "discountPercent": 31,
+      "rating": 4.7,
+      "reviewCount": 84,
+      "colors": [
+        {
+          "name": "Sand",
+          "hex": "#B8A18A"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockByVariant": {
+        "30_Sand": 8,
+        "32_Sand": 14,
+        "34_Sand": 16,
+        "36_Sand": 8,
+        "38_Sand": 4,
+        "30_Warm Cream": 6,
+        "32_Warm Cream": 12,
+        "34_Warm Cream": 10,
+        "36_Warm Cream": 6,
+        "38_Warm Cream": 3,
+        "30_Olive Green": 7,
+        "32_Olive Green": 15,
+        "34_Olive Green": 11,
+        "36_Olive Green": 7,
+        "38_Olive Green": 4,
+        "30_Jet Black": 10,
+        "32_Jet Black": 20,
+        "34_Jet Black": 18,
+        "36_Jet Black": 10,
+        "38_Jet Black": 5
+      },
+      "totalStock": 206,
+      "images": [
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "A timeless silhouette featuring clean front pleats, hidden elastic tabs on the inner waist for discreet comfort, and tailored taper that lands neatly above sneakers.",
+      "features": [
+        "High-density twill cotton with 2% stretch",
+        "Single front pleat styling",
+        "Slanted deep side pockets",
+        "YKK metal zip fly"
+      ],
+      "fabricCare": "98% Cotton, 2% Elastane. Machine wash cold inside out. Warm iron.",
+      "isBestSeller": true,
+      "isBundlePart": true,
+      "createdAt": "2026-01-20T11:00:00Z"
+    },
+    {
+      "id": "sb-men-04",
+      "name": "Minimalist Leather Low-Top Sneakers",
+      "slug": "minimalist-leather-low-top-sneakers",
+      "department": "men",
+      "category": "Shoes",
+      "collection": "Minimal Essentials",
+      "price": 2799,
+      "originalPrice": 3999,
+      "discountPercent": 30,
+      "rating": 4.9,
+      "reviewCount": 165,
+      "colors": [
+        {
+          "name": "Chalk White",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Suede",
+          "hex": "#D8C7B5"
+        }
+      ],
+      "sizes": [
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10",
+        "UK 11"
+      ],
+      "stockByVariant": {
+        "UK 7_Chalk White": 10,
+        "UK 8_Chalk White": 22,
+        "UK 9_Chalk White": 25,
+        "UK 10_Chalk White": 15,
+        "UK 11_Chalk White": 8,
+        "UK 7_Sand Suede": 6,
+        "UK 8_Sand Suede": 14,
+        "UK 9_Sand Suede": 16,
+        "UK 10_Sand Suede": 10,
+        "UK 11_Sand Suede": 5
+      },
+      "totalStock": 131,
+      "images": [
+        "/src/assets/images/product_minimal_sneaker_1792250337547.jpg",
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg"
+      ],
+      "description": "Handcrafted with supple top-grain leather uppers and a durable vulcanized cupsole. Memory foam footbed engineered for all-day urban commuting without sacrificing minimalist purity.",
+      "features": [
+        "Top-grain calf leather upper",
+        "Antimicrobial memory foam insole",
+        "Stitched rubber cupsole",
+        "Waxed cotton flat laces"
+      ],
+      "fabricCare": "Wipe clean with a damp cloth and mild leather balm. Store with shoe trees.",
+      "isBestSeller": true,
+      "isBundlePart": true,
+      "createdAt": "2026-01-10T14:00:00Z"
+    },
+    {
+      "id": "sb-men-05",
+      "name": "Washed Twill Minimalist Cap",
+      "slug": "washed-twill-minimalist-cap",
+      "department": "men",
+      "category": "Accessories",
+      "collection": "Minimal Essentials",
+      "price": 699,
+      "originalPrice": 999,
+      "discountPercent": 30,
+      "rating": 4.8,
+      "reviewCount": 76,
+      "colors": [
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockByVariant": {
+        "One Size_Olive Green": 30,
+        "One Size_Sand Beige": 25,
+        "One Size_Jet Black": 35
+      },
+      "totalStock": 90,
+      "images": [
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg",
+        "/src/assets/images/category_urban_streetwear_1792250236285.jpg"
+      ],
+      "description": "An unstructured six-panel dad cap made from garment-washed cotton twill with an antique brass adjuster buckle. Clean, unbranded crown for sophisticated daily wear.",
+      "features": [
+        "100% washed cotton twill",
+        "Unstructured 6-panel silhouette",
+        "Antique brass slider buckle",
+        "Embroidered ventilation eyelets"
+      ],
+      "fabricCare": "Spot clean with cool water and gentle detergent. Air dry.",
+      "isBundlePart": true,
+      "createdAt": "2026-02-05T10:00:00Z"
+    },
+    {
+      "id": "sb-men-06",
+      "name": "Heavyweight Fleece Oversized Hoodie",
+      "slug": "heavyweight-fleece-oversized-hoodie",
+      "department": "men",
+      "category": "Hoodies and Sweatshirts",
+      "collection": "Urban Streetwear",
+      "price": 2199,
+      "originalPrice": 3199,
+      "discountPercent": 31,
+      "rating": 4.9,
+      "reviewCount": 118,
+      "colors": [
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "S_Sand Beige": 12,
+        "M_Sand Beige": 20,
+        "L_Sand Beige": 18,
+        "XL_Sand Beige": 10,
+        "S_Warm Cream": 10,
+        "M_Warm Cream": 18,
+        "L_Warm Cream": 15,
+        "XL_Warm Cream": 8,
+        "S_Jet Black": 15,
+        "M_Jet Black": 25,
+        "L_Jet Black": 20,
+        "XL_Jet Black": 12
+      },
+      "totalStock": 183,
+      "images": [
+        "/src/assets/images/category_urban_streetwear_1792250236285.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "Engineered with 400 GSM brushed fleece cotton, this hoodie features a double-layered hood without drawstrings for a modern, architectural neckline. Deep kangaroo pocket.",
+      "features": [
+        "400 GSM heavy brushed fleece",
+        "Clean drawstring-free hood",
+        "Ribbed cuffs and waistband with elastane",
+        "Drop-shoulder relaxed fit"
+      ],
+      "fabricCare": "100% Cotton. Wash inside out in cold water. Lay flat to dry.",
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-12T12:00:00Z"
+    },
+    {
+      "id": "sb-men-hoodie-zip-01",
+      "name": "Heavyweight Full-Zip Thermal Fleece Hoodie",
+      "slug": "heavyweight-full-zip-thermal-fleece-hoodie",
+      "department": "men",
+      "category": "Hoodies and Sweatshirts",
+      "collection": "Urban Streetwear",
+      "price": 1499,
+      "originalPrice": 2299,
+      "discountPercent": 35,
+      "rating": 4.9,
+      "reviewCount": 230,
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#171715",
+          "image": "/images/hoodies/hoodie_zipper_black.jpeg"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "#1C3F2B",
+          "image": "/images/hoodies/hoodie_zipper_green.jpeg"
+        },
+        {
+          "name": "Deep Navy Blue",
+          "hex": "#1A253D",
+          "image": "/images/hoodies/hoodie_zipper_navy.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Jet Black": 15,
+        "M_Jet Black": 28,
+        "L_Jet Black": 24,
+        "XL_Jet Black": 16,
+        "XXL_Jet Black": 8,
+        "S_Forest Green": 14,
+        "M_Forest Green": 26,
+        "L_Forest Green": 22,
+        "XL_Forest Green": 14,
+        "XXL_Forest Green": 7,
+        "S_Deep Navy Blue": 12,
+        "M_Deep Navy Blue": 25,
+        "L_Deep Navy Blue": 20,
+        "XL_Deep Navy Blue": 15,
+        "XXL_Deep Navy Blue": 8
+      },
+      "totalStock": 245,
+      "images": [
+        "/images/hoodies/hoodie_zipper_black.jpeg",
+        "/images/hoodies/hoodie_zipper_green.jpeg",
+        "/images/hoodies/hoodie_zipper_navy.jpeg",
+        "/MenHoodies/Black Full-Zipper Full Sleaves Hoodie Zipper Hoodies for Men.jpeg.jpeg",
+        "/MenHoodies/Green Full-Zipper Full Sleaves Hoodie Zipper Hoodies for Men.jpeg.jpeg",
+        "/MenHoodies/Navy-Blue Full-Zipper Full Sleaves Hoodie Zipper Hoodies for Men.jpeg.jpeg"
+      ],
+      "video": "/assets/aistudio/HOODIES_c6466ee2.MP4",
+      "description": "Designed for all-day warmth and functional urban utility, this premium full-zipper hoodie is constructed from high-density brushed thermal fleece. Features a heavy-duty smooth metal front zipper, double-layered adjustable drawstring hood with metal eyelets, deep split kangaroo hand-warmer pockets, and durable shape-retaining ribbed cuffs and hem.",
+      "features": [
+        "320 GSM brushed thermal fleece lining for cold-weather insulation",
+        "Full-length smooth-glide metal front zipper with protective chin placket",
+        "Double-layer hood with metal eyelets and matching tubular drawstrings",
+        "Spacious split kangaroo pockets for secure daily storage",
+        "Reinforced stretch ribbing at cuffs and waistband",
+        "Anti-shrinkage & zero-pilling wash treatment"
+      ],
+      "fabricCare": "80% Combed Cotton, 20% Polyester Fleece. Machine wash cold inside out with like colors. Tumble dry low or line dry.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-21T12:00:00Z"
+    },
+    {
+      "id": "sb-men-sweatshirt-halfzip-01",
+      "name": "Winter Warm Fleece Half-Zip High-Neck Sweatshirt",
+      "slug": "winter-warm-fleece-half-zip-high-neck-sweatshirt",
+      "department": "men",
+      "category": "Hoodies and Sweatshirts",
+      "collection": "Everyday Essentials",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discountPercent": 35,
+      "rating": 4.9,
+      "reviewCount": 196,
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#171715",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_black.jpeg"
+        },
+        {
+          "name": "Warm Beige",
+          "hex": "#D8C7B5",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_beige.jpeg"
+        },
+        {
+          "name": "Pistachio Mint",
+          "hex": "#C4D6B0",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_green.jpeg"
+        },
+        {
+          "name": "Chocolate Brown",
+          "hex": "#5C3A21",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_brown.jpeg"
+        },
+        {
+          "name": "Dusty Mauve Pink",
+          "hex": "#B27B91",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_dustypink.jpeg"
+        },
+        {
+          "name": "Deep Maroon",
+          "hex": "#6B1724",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_maroon.jpeg"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#89C2D9",
+          "image": "/images/sweatshirts/sweatshirt_quarterzip_skyblue.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Jet Black": 12,
+        "M_Jet Black": 20,
+        "L_Jet Black": 18,
+        "XL_Jet Black": 12,
+        "XXL_Jet Black": 6,
+        "S_Warm Beige": 10,
+        "M_Warm Beige": 18,
+        "L_Warm Beige": 16,
+        "XL_Warm Beige": 10,
+        "XXL_Warm Beige": 5,
+        "S_Pistachio Mint": 8,
+        "M_Pistachio Mint": 16,
+        "L_Pistachio Mint": 15,
+        "XL_Pistachio Mint": 8,
+        "XXL_Pistachio Mint": 4,
+        "S_Chocolate Brown": 10,
+        "M_Chocolate Brown": 18,
+        "L_Chocolate Brown": 16,
+        "XL_Chocolate Brown": 10,
+        "XXL_Chocolate Brown": 5,
+        "S_Dusty Mauve Pink": 8,
+        "M_Dusty Mauve Pink": 15,
+        "L_Dusty Mauve Pink": 14,
+        "XL_Dusty Mauve Pink": 8,
+        "XXL_Dusty Mauve Pink": 4,
+        "S_Deep Maroon": 10,
+        "M_Deep Maroon": 18,
+        "L_Deep Maroon": 16,
+        "XL_Deep Maroon": 10,
+        "XXL_Deep Maroon": 5,
+        "S_Sky Blue": 8,
+        "M_Sky Blue": 16,
+        "L_Sky Blue": 15,
+        "XL_Sky Blue": 8,
+        "XXL_Sky Blue": 4
+      },
+      "totalStock": 397,
+      "images": [
+        "/images/sweatshirts/sweatshirt_quarterzip_black.jpeg",
+        "/images/sweatshirts/sweatshirt_quarterzip_beige.jpeg",
+        "/images/sweatshirts/sweatshirt_quarterzip_green.jpeg",
+        "/images/sweatshirts/sweatshirt_quarterzip_brown.jpeg",
+        "/images/sweatshirts/sweatshirt_quarterzip_dustypink.jpeg",
+        "/images/sweatshirts/sweatshirt_quarterzip_maroon.jpeg",
+        "/images/sweatshirts/sweatshirt_quarterzip_skyblue.jpeg"
+      ],
+      "description": "A winter-ready wardrobe essential tailored in ultra-soft brushed fleece with a structured stand collar and smooth metal half-zipper. Features full-length sleeves with shape-retaining ribbed cuffs and a relaxed regular fit designed for effortless layering over tees or under overcoats.",
+      "features": [
+        "300 GSM winter-weight thermal brushed fleece for superior insulation",
+        "High-neck mock collar with smooth-glide metal quarter-zipper",
+        "Clean contrast white inner collar tape detail",
+        "Rib-knit cuffs and waist hem for snug cold-draft protection",
+        "Pre-shrunk anti-pill finish engineered for daily wash-and-wear",
+        "Regular fit silhouette suitable for office casual and weekend lounging"
+      ],
+      "fabricCare": "80% Cotton, 20% Polyester Fleece. Machine wash cold inside out with similar colors. Do not bleach. Warm iron on reverse.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-22T10:00:00Z"
+    },
+    {
+      "id": "sb-men-07",
+      "name": "Multi-Pocket Tactical Utility Cargo Pants",
+      "slug": "multi-pocket-tactical-utility-cargo-pants",
+      "department": "men",
+      "category": "Cargo Pants",
+      "collection": "Urban Streetwear",
+      "price": 1699,
+      "originalPrice": 2599,
+      "discountPercent": 35,
+      "rating": 4.9,
+      "reviewCount": 284,
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#18181A",
+          "image": "/images/cargopants/cargo_black.jpeg"
+        },
+        {
+          "name": "Dark Charcoal Grey",
+          "hex": "#4A4E53",
+          "image": "/images/cargopants/cargo_dark_grey.jpeg"
+        },
+        {
+          "name": "Tactical Olive Green",
+          "hex": "#3E4935",
+          "image": "/images/cargopants/cargo_olive_green.jpeg"
+        },
+        {
+          "name": "Light Ash Grey",
+          "hex": "#9BA0A5",
+          "image": "/images/cargopants/cargo_light_grey.jpeg"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockByVariant": {
+        "28_Jet Black": 7,
+        "30_Jet Black": 15,
+        "32_Jet Black": 20,
+        "34_Jet Black": 16,
+        "36_Jet Black": 10,
+        "38_Jet Black": 5,
+        "28_Dark Charcoal Grey": 7,
+        "30_Dark Charcoal Grey": 14,
+        "32_Dark Charcoal Grey": 18,
+        "34_Dark Charcoal Grey": 15,
+        "36_Dark Charcoal Grey": 8,
+        "38_Dark Charcoal Grey": 4,
+        "28_Tactical Olive Green": 9,
+        "30_Tactical Olive Green": 16,
+        "32_Tactical Olive Green": 22,
+        "34_Tactical Olive Green": 18,
+        "36_Tactical Olive Green": 9,
+        "38_Tactical Olive Green": 6,
+        "28_Light Ash Grey": 6,
+        "30_Light Ash Grey": 12,
+        "32_Light Ash Grey": 16,
+        "34_Light Ash Grey": 14,
+        "36_Light Ash Grey": 7,
+        "38_Light Ash Grey": 3
+      },
+      "totalStock": 276,
+      "images": [
+        "/images/cargopants/cargo_black.jpeg",
+        "/images/cargopants/cargo_dark_grey.jpeg",
+        "/images/cargopants/cargo_olive_green.jpeg",
+        "/images/cargopants/cargo_light_grey.jpeg",
+        "/Cargopants/WhatsApp Image 2026-10-20 at 8.09.34 PM.jpeg-1.jpeg"
+      ],
+      "description": "Engineered for tactical utility and high-comfort urban streetwear, these multi-pocket cargo pants are crafted from durable high-density cotton twill. Features twin oversized flap utility pockets on both thighs, reinforced knee darts for ergonomic mobility, secure zip fly with button waist, deep slash hand pockets, and rear flap compartments. Cut in a contemporary straight-leg relaxed fit that stacks cleanly over sneakers or boots.",
+      "features": [
+        "Heavy-duty 100% cotton stretch-twill construction",
+        "6-Pocket utilitarian architecture with reinforced bellows cargo pockets",
+        "Articulated knee seams for free range of motion",
+        "Durable metal zipper fly with reinforced waist button",
+        "Relaxed straight-leg cut with reinforced bar-tack stitching at stress points"
+      ],
+      "fabricCare": "100% Cotton Twill. Machine wash cold inside out. Tumble dry low or hang dry in shade.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T10:00:00Z"
+    },
+    {
+      "id": "sb-men-cargo-olive",
+      "name": "Tactical Multi-Pocket Cargo Pants - Olive Green",
+      "slug": "tactical-multi-pocket-cargo-pants-olive-green",
+      "department": "men",
+      "category": "Cargo Pants",
+      "collection": "Urban Streetwear",
+      "price": 1699,
+      "originalPrice": 2599,
+      "discountPercent": 35,
+      "rating": 4.8,
+      "reviewCount": 196,
+      "colors": [
+        {
+          "name": "Tactical Olive Green",
+          "hex": "#3E4935",
+          "image": "/images/cargopants/cargo_olive_green.jpeg"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#18181A",
+          "image": "/images/cargopants/cargo_black.jpeg"
+        },
+        {
+          "name": "Dark Charcoal Grey",
+          "hex": "#4A4E53",
+          "image": "/images/cargopants/cargo_dark_grey.jpeg"
+        },
+        {
+          "name": "Light Ash Grey",
+          "hex": "#9BA0A5",
+          "image": "/images/cargopants/cargo_light_grey.jpeg"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockByVariant": {
+        "28_Tactical Olive Green": 10,
+        "30_Tactical Olive Green": 18,
+        "32_Tactical Olive Green": 24,
+        "34_Tactical Olive Green": 16,
+        "36_Tactical Olive Green": 10,
+        "38_Tactical Olive Green": 5,
+        "28_Jet Black": 6,
+        "30_Jet Black": 12,
+        "32_Jet Black": 18,
+        "34_Jet Black": 12,
+        "36_Jet Black": 8,
+        "38_Jet Black": 4,
+        "28_Dark Charcoal Grey": 5,
+        "30_Dark Charcoal Grey": 10,
+        "32_Dark Charcoal Grey": 15,
+        "34_Dark Charcoal Grey": 11,
+        "36_Dark Charcoal Grey": 6,
+        "38_Dark Charcoal Grey": 3,
+        "28_Light Ash Grey": 5,
+        "30_Light Ash Grey": 10,
+        "32_Light Ash Grey": 14,
+        "34_Light Ash Grey": 10,
+        "36_Light Ash Grey": 5,
+        "38_Light Ash Grey": 2
+      },
+      "totalStock": 240,
+      "images": [
+        "/images/cargopants/cargo_olive_green.jpeg",
+        "/images/cargopants/cargo_black.jpeg",
+        "/images/cargopants/cargo_dark_grey.jpeg",
+        "/images/cargopants/cargo_light_grey.jpeg",
+        "/Cargopants/greenWhatsApp Image 2026-10-20 at 8.09.34 P.jpeg.jpeg"
+      ],
+      "description": "Military-grade aesthetic meets everyday versatility. These olive green tactical cargos feature spacious dual flap side pockets, pre-shaped articulated knees, and a rugged breathable cotton-twill body built to endure active lifestyles, travel, and casual urban styling.",
+      "features": [
+        "Authentic military olive green hue with colorfast dye",
+        "Dual bellowed utility thigh pockets with flap closures",
+        "Reinforced knee seam ergonomics for maximum comfort",
+        "Standard rise with durable belt loops and button fly closure"
+      ],
+      "fabricCare": "100% Cotton Twill. Machine wash cold with like colors. Warm iron if needed.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T11:00:00Z"
+    },
+    {
+      "id": "sb-men-cargo-darkgrey",
+      "name": "Heavyweight Utility Cargo Pants - Dark Charcoal",
+      "slug": "heavyweight-utility-cargo-pants-dark-charcoal",
+      "department": "men",
+      "category": "Cargo Pants",
+      "collection": "Urban Streetwear",
+      "price": 1699,
+      "originalPrice": 2599,
+      "discountPercent": 35,
+      "rating": 4.9,
+      "reviewCount": 162,
+      "colors": [
+        {
+          "name": "Dark Charcoal Grey",
+          "hex": "#4A4E53",
+          "image": "/images/cargopants/cargo_dark_grey.jpeg"
+        },
+        {
+          "name": "Light Ash Grey",
+          "hex": "#9BA0A5",
+          "image": "/images/cargopants/cargo_light_grey.jpeg"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#18181A",
+          "image": "/images/cargopants/cargo_black.jpeg"
+        },
+        {
+          "name": "Tactical Olive Green",
+          "hex": "#3E4935",
+          "image": "/images/cargopants/cargo_olive_green.jpeg"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockByVariant": {
+        "28_Dark Charcoal Grey": 8,
+        "30_Dark Charcoal Grey": 15,
+        "32_Dark Charcoal Grey": 20,
+        "34_Dark Charcoal Grey": 16,
+        "36_Dark Charcoal Grey": 9,
+        "38_Dark Charcoal Grey": 4,
+        "28_Light Ash Grey": 6,
+        "30_Light Ash Grey": 11,
+        "32_Light Ash Grey": 15,
+        "34_Light Ash Grey": 12,
+        "36_Light Ash Grey": 7,
+        "38_Light Ash Grey": 3,
+        "28_Jet Black": 7,
+        "30_Jet Black": 12,
+        "32_Jet Black": 16,
+        "34_Jet Black": 13,
+        "36_Jet Black": 8,
+        "38_Jet Black": 4,
+        "28_Tactical Olive Green": 6,
+        "30_Tactical Olive Green": 11,
+        "32_Tactical Olive Green": 14,
+        "34_Tactical Olive Green": 10,
+        "36_Tactical Olive Green": 6,
+        "38_Tactical Olive Green": 3
+      },
+      "totalStock": 236,
+      "images": [
+        "/images/cargopants/cargo_dark_grey.jpeg",
+        "/images/cargopants/cargo_light_grey.jpeg",
+        "/images/cargopants/cargo_black.jpeg",
+        "/images/cargopants/cargo_olive_green.jpeg",
+        "/Cargopants/darkgreyWhatsApp Image 2026-10-20 at 8.09.35 PM'jpeg.jpeg"
+      ],
+      "description": "Deep graphite dark charcoal cargo trousers tailored for sharp modern streetwear. Structured with deep lateral cargo compartments, knee paneling, and an effortless drape that bridges casual street culture and practical outdoor utility.",
+      "features": [
+        "Premium dark graphite charcoal finish that pairs effortlessly with any tee or hoodie",
+        "Dual side cargo flap pockets with secure closures",
+        "Reinforced front hand pockets and back flap pockets",
+        "Structured straight leg cut with clean ankle opening"
+      ],
+      "fabricCare": "100% Cotton Twill. Wash cold inside out. Tumble dry gentle.",
+      "isBestSeller": false,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T11:30:00Z"
+    },
+    {
+      "id": "sb-men-cargo-lightgrey",
+      "name": "Modern Utility Straight Cargo Pants - Light Ash Grey",
+      "slug": "modern-utility-straight-cargo-pants-light-ash-grey",
+      "department": "men",
+      "category": "Cargo Pants",
+      "collection": "Urban Streetwear",
+      "price": 1699,
+      "originalPrice": 2599,
+      "discountPercent": 35,
+      "rating": 4.8,
+      "reviewCount": 143,
+      "colors": [
+        {
+          "name": "Light Ash Grey",
+          "hex": "#9BA0A5",
+          "image": "/images/cargopants/cargo_light_grey.jpeg"
+        },
+        {
+          "name": "Dark Charcoal Grey",
+          "hex": "#4A4E53",
+          "image": "/images/cargopants/cargo_dark_grey.jpeg"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#18181A",
+          "image": "/images/cargopants/cargo_black.jpeg"
+        },
+        {
+          "name": "Tactical Olive Green",
+          "hex": "#3E4935",
+          "image": "/images/cargopants/cargo_olive_green.jpeg"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockByVariant": {
+        "28_Light Ash Grey": 7,
+        "30_Light Ash Grey": 14,
+        "32_Light Ash Grey": 18,
+        "34_Light Ash Grey": 15,
+        "36_Light Ash Grey": 8,
+        "38_Light Ash Grey": 4,
+        "28_Dark Charcoal Grey": 6,
+        "30_Dark Charcoal Grey": 12,
+        "32_Dark Charcoal Grey": 15,
+        "34_Dark Charcoal Grey": 11,
+        "36_Dark Charcoal Grey": 7,
+        "38_Dark Charcoal Grey": 3,
+        "28_Jet Black": 6,
+        "30_Jet Black": 12,
+        "32_Jet Black": 16,
+        "34_Jet Black": 12,
+        "36_Jet Black": 7,
+        "38_Jet Black": 3,
+        "28_Tactical Olive Green": 5,
+        "30_Tactical Olive Green": 10,
+        "32_Tactical Olive Green": 14,
+        "34_Tactical Olive Green": 10,
+        "36_Tactical Olive Green": 6,
+        "38_Tactical Olive Green": 3
+      },
+      "totalStock": 222,
+      "images": [
+        "/images/cargopants/cargo_light_grey.jpeg",
+        "/images/cargopants/cargo_dark_grey.jpeg",
+        "/images/cargopants/cargo_black.jpeg",
+        "/images/cargopants/cargo_olive_green.jpeg",
+        "/Cargopants/greyWhatsApp Image 2026-10-20 at 8.09.35 PM.jpeg.jpeg"
+      ],
+      "description": "Crisp light ash grey cargo trousers offering a clean, contemporary aesthetic. Designed with tactical thigh flap pockets, reinforced knee darts, and durable belt loops, ready to style with black high-tops or low-profile canvas sneakers.",
+      "features": [
+        "Clean minimalist ash grey wash",
+        "Dual ergonomic bellows thigh cargo pockets",
+        "Articulated knee seams for relaxed everyday drape",
+        "Full length straight leg cut"
+      ],
+      "fabricCare": "100% Cotton Twill. Machine wash cold with similar colors. Medium iron.",
+      "isBestSeller": false,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-20T12:00:00Z"
+    },
+    {
+      "id": "sb-men-08",
+      "name": "Tailored Wool-Blend Single Breasted Blazer",
+      "slug": "tailored-wool-blend-single-breasted-blazer",
+      "department": "men",
+      "category": "Jackets",
+      "collection": "Minimal Essentials",
+      "price": 3499,
+      "originalPrice": 4999,
+      "discountPercent": 30,
+      "rating": 4.9,
+      "reviewCount": 64,
+      "colors": [
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "stockByVariant": {
+        "38_Olive Green": 6,
+        "40_Olive Green": 12,
+        "42_Olive Green": 10,
+        "44_Olive Green": 4,
+        "38_Sand Beige": 5,
+        "40_Sand Beige": 10,
+        "42_Sand Beige": 8,
+        "44_Sand Beige": 3,
+        "38_Jet Black": 8,
+        "40_Jet Black": 15,
+        "42_Jet Black": 12,
+        "44_Jet Black": 6
+      },
+      "totalStock": 99,
+      "images": [
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "An unconstructed modern blazer cut from lightweight breathable wool blend with a soft shoulder line. Delivers effortless elevated polish over tees or knitwear.",
+      "features": [
+        "Breathable tropical wool blend",
+        "Soft natural shoulder padding",
+        "Horn-look buttons",
+        "Dual rear vents"
+      ],
+      "fabricCare": "Dry clean only. Hang on wide contoured hanger.",
+      "isNewArrival": true,
+      "createdAt": "2026-02-14T09:30:00Z"
+    },
+    {
+      "id": "sb-men-09",
+      "name": "Supima Cotton Pique Polo Shirt",
+      "slug": "supima-cotton-pique-polo-shirt",
+      "department": "men",
+      "category": "Polo T-Shirts",
+      "collection": "Everyday Essentials",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discountPercent": 28,
+      "rating": 4.7,
+      "reviewCount": 112,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "S_Warm Cream": 15,
+        "M_Warm Cream": 25,
+        "L_Warm Cream": 20,
+        "XL_Warm Cream": 10,
+        "S_Olive Green": 12,
+        "M_Olive Green": 18,
+        "L_Olive Green": 14,
+        "XL_Olive Green": 8,
+        "S_Jet Black": 18,
+        "M_Jet Black": 30,
+        "L_Jet Black": 24,
+        "XL_Jet Black": 12
+      },
+      "totalStock": 191,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/product_linen_shirt_1792250335977.jpg"
+      ],
+      "description": "Crafted from extra-long staple Supima cotton for exceptional softness, luster, and color retention. Designed with a structured collar that never curls.",
+      "features": [
+        "100% American Supima Cotton",
+        "Anti-curl knitted collar",
+        "Split side vent hem",
+        "Subtle chest tailoring"
+      ],
+      "fabricCare": "100% Supima Cotton. Machine wash cold with similar shades.",
+      "isBestSeller": false,
+      "createdAt": "2026-01-28T10:00:00Z"
+    },
+    {
+      "id": "sb-men-10",
+      "name": "Vintage Wash Straight Fit Selvedge Jeans",
+      "slug": "vintage-wash-straight-fit-selvedge-jeans",
+      "department": "men",
+      "category": "Jeans",
+      "collection": "Urban Streetwear",
+      "price": 2499,
+      "originalPrice": 3499,
+      "discountPercent": 29,
+      "rating": 4.8,
+      "reviewCount": 95,
+      "colors": [
+        {
+          "name": "Sand Tint Indigo",
+          "hex": "#B8A18A"
+        },
+        {
+          "name": "Raw Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stockByVariant": {
+        "30_Sand Tint Indigo": 12,
+        "32_Sand Tint Indigo": 20,
+        "34_Sand Tint Indigo": 18,
+        "36_Sand Tint Indigo": 10,
+        "30_Raw Black": 14,
+        "32_Raw Black": 22,
+        "34_Raw Black": 16,
+        "36_Raw Black": 8
+      },
+      "totalStock": 120,
+      "images": [
+        "/src/assets/images/category_urban_streetwear_1792250236285.jpg",
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg"
+      ],
+      "description": "13.5 oz Japanese-shuttle loom inspired denim with clean red-line selvedge cuffs. Built with authentic brass hardware and a comfortable mid-rise.",
+      "features": [
+        "13.5 oz heavy ring-spun denim",
+        "Authentic selvedge ID line",
+        "Reinforced rivet points",
+        "Classic straight leg opening"
+      ],
+      "fabricCare": "100% Cotton. Wash sparingly inside out. Air dry in shade.",
+      "createdAt": "2026-02-02T13:00:00Z"
+    },
+    {
+      "id": "sb-men-11",
+      "name": "Tailored Pleated Drawstring Shorts",
+      "slug": "tailored-pleated-drawstring-shorts",
+      "department": "men",
+      "category": "Shorts",
+      "collection": "Casual Comfort",
+      "price": 1399,
+      "originalPrice": 1999,
+      "discountPercent": 30,
+      "rating": 4.6,
+      "reviewCount": 58,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Sand",
+          "hex": "#B8A18A"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "S_Warm Cream": 10,
+        "M_Warm Cream": 16,
+        "L_Warm Cream": 12,
+        "XL_Warm Cream": 6,
+        "S_Olive Green": 12,
+        "M_Olive Green": 18,
+        "L_Olive Green": 14,
+        "XL_Olive Green": 8,
+        "S_Sand": 8,
+        "M_Sand": 14,
+        "L_Sand": 12,
+        "XL_Sand": 5
+      },
+      "totalStock": 125,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg"
+      ],
+      "description": "Refined 7-inch inseam shorts pairing front tailoring with an elasticated waistband and internal braided cotton drawcord. Modern holiday ease.",
+      "features": [
+        "7-inch modern inseam",
+        "Elastic waist with inner drawcord",
+        "Double front pleats",
+        "Back welt pocket with button"
+      ],
+      "fabricCare": "Cotton Linen Blend. Machine wash gentle.",
+      "createdAt": "2026-02-10T11:00:00Z"
+    },
+    {
+      "id": "sb-women-01",
+      "name": "Relaxed Button-Down Linen Midi Dress",
+      "slug": "relaxed-button-down-linen-midi-dress",
+      "department": "women",
+      "category": "Dresses",
+      "collection": "Minimal Essentials",
+      "price": 2499,
+      "originalPrice": 3499,
+      "discountPercent": 29,
+      "rating": 4.9,
+      "reviewCount": 178,
+      "colors": [
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "XS_Olive Green": 8,
+        "S_Olive Green": 18,
+        "M_Olive Green": 24,
+        "L_Olive Green": 16,
+        "XL_Olive Green": 8,
+        "XS_Warm Cream": 10,
+        "S_Warm Cream": 20,
+        "M_Warm Cream": 22,
+        "L_Warm Cream": 14,
+        "XL_Warm Cream": 6,
+        "XS_Sand Beige": 6,
+        "S_Sand Beige": 14,
+        "M_Sand Beige": 18,
+        "L_Sand Beige": 12,
+        "XL_Sand Beige": 5
+      },
+      "totalStock": 201,
+      "images": [
+        "/src/assets/images/product_women_dress_1792250337609.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "A breezy, effortless silhouette cut from premium European linen. Features a flattering V-neckline, self-tie fabric waist belt, and deep functional seam pockets.",
+      "features": [
+        "100% Pre-washed Flax Linen",
+        "Removable sash belt",
+        "Concealed side-seam pockets",
+        "Midi length with subtle A-line flare"
+      ],
+      "fabricCare": "100% Linen. Machine wash cold, hang dry in shade.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "createdAt": "2026-01-18T10:00:00Z"
+    },
+    {
+      "id": "sb-women-02",
+      "name": "Pleated High-Waist Wide Leg Trousers",
+      "slug": "pleated-high-waist-wide-leg-trousers",
+      "department": "women",
+      "category": "Trousers",
+      "collection": "Minimal Essentials",
+      "price": 1999,
+      "originalPrice": 2899,
+      "discountPercent": 31,
+      "rating": 4.8,
+      "reviewCount": 134,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand",
+          "hex": "#B8A18A"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "stockByVariant": {
+        "26_Warm Cream": 8,
+        "28_Warm Cream": 16,
+        "30_Warm Cream": 20,
+        "32_Warm Cream": 14,
+        "34_Warm Cream": 6,
+        "26_Sand": 7,
+        "28_Sand": 15,
+        "30_Sand": 18,
+        "32_Sand": 12,
+        "34_Sand": 5,
+        "26_Olive Green": 6,
+        "28_Olive Green": 12,
+        "30_Olive Green": 16,
+        "32_Olive Green": 10,
+        "34_Olive Green": 4,
+        "26_Jet Black": 10,
+        "28_Jet Black": 20,
+        "30_Jet Black": 22,
+        "32_Jet Black": 15,
+        "34_Jet Black": 8
+      },
+      "totalStock": 240,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "Architectural tailoring with a flattering high-rise contour and floor-skimming wide leg. Fluid drape fabric that resists wrinkling throughout the workday.",
+      "features": [
+        "High-waist contoured waistband",
+        "Sharp double pleats",
+        "Hook-and-bar front closure",
+        "Fluid drape crease-resistant fabric"
+      ],
+      "fabricCare": "Poly-viscose blend. Machine wash gentle, cool iron.",
+      "isBestSeller": true,
+      "createdAt": "2026-01-22T08:00:00Z"
+    },
+    {
+      "id": "sb-women-03",
+      "name": "Oversized Sand Fleece Drop-Shoulder Hoodie",
+      "slug": "oversized-sand-fleece-drop-shoulder-hoodie",
+      "department": "women",
+      "category": "Hoodies",
+      "collection": "Urban Streetwear",
+      "price": 2199,
+      "originalPrice": 2999,
+      "discountPercent": 27,
+      "rating": 4.9,
+      "reviewCount": 156,
+      "colors": [
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stockByVariant": {
+        "XS_Sand Beige": 10,
+        "S_Sand Beige": 24,
+        "M_Sand Beige": 22,
+        "L_Sand Beige": 12,
+        "XS_Warm Cream": 12,
+        "S_Warm Cream": 20,
+        "M_Warm Cream": 18,
+        "L_Warm Cream": 10,
+        "XS_Olive Green": 8,
+        "S_Olive Green": 16,
+        "M_Olive Green": 14,
+        "L_Olive Green": 8
+      },
+      "totalStock": 174,
+      "images": [
+        "/src/assets/images/category_urban_streetwear_1792250236285.jpg",
+        "/src/assets/images/product_kids_hoodie_1792250337762.jpg"
+      ],
+      "description": "An editorial streetwear staple with cocooned proportions, premium loopback cotton interior, and minimal tonal branding. Incredibly soft against bare skin.",
+      "features": [
+        "100% cotton french terry",
+        "Oversized cocoon cut",
+        "Clean minimal neckline",
+        "Seamless ribbed cuffs"
+      ],
+      "fabricCare": "100% Cotton. Wash cold, do not tumble dry.",
+      "isTrending": true,
+      "createdAt": "2026-02-04T12:00:00Z"
+    },
+    {
+      "id": "sb-women-coord-01",
+      "name": "Pakistani Embroidered Kurti & Flared Palazzo Set",
+      "slug": "pakistani-embroidered-kurti-flared-palazzo-set",
+      "department": "women",
+      "category": "Co-ord Sets",
+      "collection": "Ethnic & Co-ords",
+      "price": 1799,
+      "originalPrice": 2799,
+      "discountPercent": 36,
+      "rating": 4.9,
+      "reviewCount": 218,
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#111111",
+          "image": "/images/coordsets/coord_pakistani_black.jpeg"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "#1A2544",
+          "image": "/images/coordsets/coord_pakistani_navy.jpeg"
+        },
+        {
+          "name": "Rich Maroon",
+          "hex": "#5C162E",
+          "image": "/images/coordsets/coord_pakistani_maroon.jpeg"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Jet Black": 15,
+        "M_Jet Black": 28,
+        "L_Jet Black": 24,
+        "XL_Jet Black": 16,
+        "XXL_Jet Black": 8,
+        "S_Navy Blue": 14,
+        "M_Navy Blue": 26,
+        "L_Navy Blue": 22,
+        "XL_Navy Blue": 14,
+        "XXL_Navy Blue": 7,
+        "S_Rich Maroon": 12,
+        "M_Rich Maroon": 25,
+        "L_Rich Maroon": 20,
+        "XL_Rich Maroon": 15,
+        "XXL_Rich Maroon": 8
+      },
+      "totalStock": 254,
+      "images": [
+        "/images/coordsets/coord_pakistani_black.jpeg",
+        "/images/coordsets/coord_pakistani_navy.jpeg",
+        "/images/coordsets/coord_pakistani_maroon.jpeg",
+        "/Co-ordSets/Black Pakistani Beautiful Dress Kurtiand Plazzo Set.jpeg.jpeg",
+        "/Co-ordSets/Navy Blue Pakistani Beautiful Dress Kurtiand Plazzo Set.jpeg.jpeg",
+        "/Co-ordSets/Marron Pakistani Beautiful Dress Kurtiand Plazzo Set.jpeg.jpeg"
+      ],
+      "description": "Exquisite 2-piece Pakistani ethnic co-ord set featuring a knee-length straight-cut kurti with wide-leg flared palazzo trousers. Detailed with intricate paisley and floral resham zari threadwork across wide bell sleeve cuffs and shoulder yoke. Accented with charming potli buttons down the front keyhole placket, tailored from a lustrous premium rayon-viscose silk-blend.",
+      "features": [
+        "2-Piece Set: Straight knee-length kurti + wide-leg flared palazzo",
+        "Intricate Pakistani paisley resham zari embroidery on bell sleeves",
+        "Keyhole neckline with decorative pearl shank potli buttons",
+        "Shoulder yoke scallop embroidery for regal framing",
+        "Fluid drape breathable rayon-viscose blend with silk-touch finish",
+        "Comfortable elasticated palazzo waistband with deep side pockets"
+      ],
+      "fabricCare": "Premium Rayon-Viscose Silk Blend. Dry clean recommended or gentle hand wash in cold water. Iron on reverse.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "isNewArrival": true,
+      "createdAt": "2026-02-21T10:00:00Z"
+    },
+    {
+      "id": "sb-women-04",
+      "name": "Relaxed Ribbed Knit Co-ord Set",
+      "slug": "relaxed-ribbed-knit-coord-set",
+      "department": "women",
+      "category": "Co-ord Sets",
+      "collection": "Lounge Wear",
+      "price": 2699,
+      "originalPrice": 3799,
+      "discountPercent": 29,
+      "rating": 4.8,
+      "reviewCount": 88,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stockByVariant": {
+        "XS_Warm Cream": 8,
+        "S_Warm Cream": 16,
+        "M_Warm Cream": 14,
+        "L_Warm Cream": 8,
+        "XS_Sand Beige": 7,
+        "S_Sand Beige": 14,
+        "M_Sand Beige": 12,
+        "L_Sand Beige": 6,
+        "XS_Olive Green": 5,
+        "S_Olive Green": 10,
+        "M_Olive Green": 10,
+        "L_Olive Green": 5
+      },
+      "totalStock": 115,
+      "images": [
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "Two-piece tonal set consisting of a drapey mock-neck sleeveless top and fluid straight-leg knit trousers with an elasticized waistband. Effortless resort minimalism.",
+      "features": [
+        "Ultra-soft modal ribbed knit",
+        "Includes top and matching trousers",
+        "Elastic waistband for effortless fit",
+        "Breathable zero-pilling yarn"
+      ],
+      "fabricCare": "Modal cotton blend. Hand wash or delicate wash cycle.",
+      "isNewArrival": true,
+      "createdAt": "2026-02-15T14:00:00Z"
+    },
+    {
+      "id": "sb-women-05",
+      "name": "Organic Cotton Boxy Cropped Tee",
+      "slug": "organic-cotton-boxy-cropped-tee",
+      "department": "women",
+      "category": "Tops and T-Shirts",
+      "collection": "Minimal Essentials",
+      "price": 799,
+      "originalPrice": 1199,
+      "discountPercent": 33,
+      "rating": 4.7,
+      "reviewCount": 210,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stockByVariant": {
+        "XS_Warm Cream": 15,
+        "S_Warm Cream": 30,
+        "M_Warm Cream": 28,
+        "L_Warm Cream": 14,
+        "XS_Sand Beige": 12,
+        "S_Sand Beige": 22,
+        "M_Sand Beige": 20,
+        "L_Sand Beige": 10,
+        "XS_Olive Green": 10,
+        "S_Olive Green": 18,
+        "M_Olive Green": 16,
+        "L_Olive Green": 8,
+        "XS_Jet Black": 16,
+        "S_Jet Black": 32,
+        "M_Jet Black": 26,
+        "L_Jet Black": 12
+      },
+      "totalStock": 295,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "A modern boxy cropped tee that hits exactly at the high waistband. Knitted from heavyweight 220 GSM combed cotton that retains crisp shape after continuous washing.",
+      "features": [
+        "220 GSM combed organic cotton",
+        "Flattering boxy cropped length",
+        "Ribbed high crew neckline",
+        "Drop shoulder cut"
+      ],
+      "fabricCare": "100% Organic Cotton. Machine wash cold.",
+      "isBestSeller": true,
+      "createdAt": "2026-01-05T09:00:00Z"
+    },
+    {
+      "id": "sb-women-07",
+      "name": "Sculptural Minimalist Leather Crossbody Bag",
+      "slug": "sculptural-minimalist-leather-crossbody-bag",
+      "department": "women",
+      "category": "Handbags",
+      "collection": "Minimal Essentials",
+      "price": 2199,
+      "originalPrice": 3199,
+      "discountPercent": 31,
+      "rating": 4.9,
+      "reviewCount": 94,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockByVariant": {
+        "One Size_Warm Cream": 20,
+        "One Size_Sand Beige": 24,
+        "One Size_Olive Green": 16,
+        "One Size_Jet Black": 30
+      },
+      "totalStock": 90,
+      "images": [
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg",
+        "/src/assets/images/product_women_dress_1792250337609.jpg"
+      ],
+      "description": "A half-moon curved crossbody bag crafted with cruelty-free vegan grain leather, brushed gold hardware, and an interior divider with credit card slots and phone pouch.",
+      "features": [
+        "Architectural curved crescent silhouette",
+        "Adjustable leather shoulder strap",
+        "Magnetic closure flap",
+        "Internal zip pocket"
+      ],
+      "fabricCare": "Vegan leather. Clean with soft microfiber cloth.",
+      "isBestSeller": true,
+      "createdAt": "2026-01-25T11:30:00Z"
+    },
+    {
+      "id": "sb-women-08",
+      "name": "High-Rise Seamless Sculpt Leggings",
+      "slug": "high-rise-seamless-sculpt-leggings",
+      "department": "women",
+      "category": "Activewear",
+      "collection": "Active Lifestyle",
+      "price": 1499,
+      "originalPrice": 2199,
+      "discountPercent": 32,
+      "rating": 4.8,
+      "reviewCount": 162,
+      "colors": [
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Sand",
+          "hex": "#B8A18A"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stockByVariant": {
+        "XS_Olive Green": 14,
+        "S_Olive Green": 26,
+        "M_Olive Green": 22,
+        "L_Olive Green": 10,
+        "XS_Sand": 10,
+        "S_Sand": 20,
+        "M_Sand": 18,
+        "L_Sand": 8,
+        "XS_Jet Black": 18,
+        "S_Jet Black": 30,
+        "M_Jet Black": 25,
+        "L_Jet Black": 12
+      },
+      "totalStock": 193,
+      "images": [
+        "/src/assets/images/category_urban_streetwear_1792250236285.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "Designed for yoga, brisk walks, and studio training. Buttery-soft four-way stretch fabric with squat-proof opacity, zero front seam, and ergonomic contouring.",
+      "features": [
+        "7/8 length compressive fit",
+        "Seamless waistband that stays up",
+        "Four-way moisture-wicking stretch",
+        "No front center seam"
+      ],
+      "fabricCare": "78% Polyamide, 22% Spandex. Machine wash cold inside out.",
+      "isTrending": true,
+      "createdAt": "2026-01-30T09:15:00Z"
+    },
+    {
+      "id": "sb-kids-01",
+      "name": "Kids Organic Cotton Oversized Hoodie",
+      "slug": "kids-organic-cotton-oversized-hoodie",
+      "department": "kids",
+      "category": "Hoodies and Sweatshirts",
+      "collection": "Casual Comfort",
+      "price": 1199,
+      "originalPrice": 1699,
+      "discountPercent": 29,
+      "rating": 4.9,
+      "reviewCount": 78,
+      "colors": [
+        {
+          "name": "Oatmeal Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y",
+        "9-10Y",
+        "11-12Y"
+      ],
+      "stockByVariant": {
+        "3-4Y_Oatmeal Cream": 10,
+        "5-6Y_Oatmeal Cream": 15,
+        "7-8Y_Oatmeal Cream": 16,
+        "9-10Y_Oatmeal Cream": 12,
+        "11-12Y_Oatmeal Cream": 8,
+        "3-4Y_Sand Beige": 8,
+        "5-6Y_Sand Beige": 12,
+        "7-8Y_Sand Beige": 14,
+        "9-10Y_Sand Beige": 10,
+        "11-12Y_Sand Beige": 6,
+        "3-4Y_Olive Green": 7,
+        "5-6Y_Olive Green": 10,
+        "7-8Y_Olive Green": 12,
+        "9-10Y_Olive Green": 8,
+        "11-12Y_Olive Green": 5
+      },
+      "totalStock": 173,
+      "images": [
+        "/src/assets/images/product_kids_hoodie_1792250337762.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "Made from certified organic brushed cotton, hypoallergenic and tagless for delicate skin. Snug ribbed cuffs and a warm front kangaroo pocket for little hands.",
+      "features": [
+        "100% GOTS certified organic cotton",
+        "Tagless scratch-free neck label",
+        "Roomy kangaroo pouch pocket",
+        "Reinforced stitch points for durability"
+      ],
+      "fabricCare": "100% Organic Cotton. Machine wash warm with baby-safe soap.",
+      "isBestSeller": true,
+      "isTrending": true,
+      "createdAt": "2026-02-03T10:00:00Z"
+    },
+    {
+      "id": "sb-kids-02",
+      "name": "Kids Everyday Ribbed Crew Tee (Pack of 2)",
+      "slug": "kids-everyday-ribbed-crew-tee-pack",
+      "department": "kids",
+      "category": "T-Shirts",
+      "collection": "Everyday Essentials",
+      "price": 899,
+      "originalPrice": 1299,
+      "discountPercent": 30,
+      "rating": 4.8,
+      "reviewCount": 92,
+      "colors": [
+        {
+          "name": "Cream & Sand",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Olive & Sand",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y",
+        "9-10Y"
+      ],
+      "stockByVariant": {
+        "3-4Y_Cream & Sand": 12,
+        "5-6Y_Cream & Sand": 18,
+        "7-8Y_Cream & Sand": 20,
+        "9-10Y_Cream & Sand": 14,
+        "3-4Y_Olive & Sand": 10,
+        "5-6Y_Olive & Sand": 15,
+        "7-8Y_Olive & Sand": 16,
+        "9-10Y_Olive & Sand": 12
+      },
+      "totalStock": 117,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/product_kids_hoodie_1792250337762.jpg"
+      ],
+      "description": "Two-pack of ultra-comfy crewneck tees in neutral tones. Pre-washed for maximum softness and shrink resistance during high-energy play.",
+      "features": [
+        "Comes as a 2-pack coordinated set",
+        "Ribbed neckband for easy dressing",
+        "Double-stitched hems",
+        "100% breathable cotton"
+      ],
+      "fabricCare": "100% Cotton. Wash warm with like colors.",
+      "isBestSeller": true,
+      "createdAt": "2026-01-14T08:00:00Z"
+    },
+    {
+      "id": "sb-kids-03",
+      "name": "Kids Elastic Waist Linen Joggers",
+      "slug": "kids-elastic-waist-linen-joggers",
+      "department": "kids",
+      "category": "Jeans and Trousers",
+      "collection": "Casual Comfort",
+      "price": 1099,
+      "originalPrice": 1599,
+      "discountPercent": 31,
+      "rating": 4.7,
+      "reviewCount": 54,
+      "colors": [
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y",
+        "9-10Y"
+      ],
+      "stockByVariant": {
+        "3-4Y_Sand Beige": 10,
+        "5-6Y_Sand Beige": 14,
+        "7-8Y_Sand Beige": 16,
+        "9-10Y_Sand Beige": 10,
+        "3-4Y_Olive Green": 8,
+        "5-6Y_Olive Green": 12,
+        "7-8Y_Olive Green": 15,
+        "9-10Y_Olive Green": 9
+      },
+      "totalStock": 94,
+      "images": [
+        "/src/assets/images/product_kids_hoodie_1792250337762.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "Breathable linen-cotton pants with a stretchy ribbed waistband, faux drawstring, and elastic ankle cuffs that stay above shoes.",
+      "features": [
+        "Comfort stretch waistband",
+        "Deep hand pockets for small treasures",
+        "Tapered jogger cuff",
+        "Durable linen-cotton blend"
+      ],
+      "fabricCare": "Linen Cotton Blend. Machine wash gentle.",
+      "createdAt": "2026-02-09T10:30:00Z"
+    },
+    {
+      "id": "sb-kids-04",
+      "name": "Girls Tiered Cotton Smock Dress",
+      "slug": "girls-tiered-cotton-smock-dress",
+      "department": "kids",
+      "category": "Dresses",
+      "collection": "Minimal Essentials",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discountPercent": 28,
+      "rating": 4.9,
+      "reviewCount": 68,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        }
+      ],
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y",
+        "9-10Y"
+      ],
+      "stockByVariant": {
+        "3-4Y_Warm Cream": 10,
+        "5-6Y_Warm Cream": 16,
+        "7-8Y_Warm Cream": 14,
+        "9-10Y_Warm Cream": 8,
+        "3-4Y_Sand Beige": 8,
+        "5-6Y_Sand Beige": 12,
+        "7-8Y_Sand Beige": 14,
+        "9-10Y_Sand Beige": 6
+      },
+      "totalStock": 88,
+      "images": [
+        "/src/assets/images/product_women_dress_1792250337609.jpg",
+        "/src/assets/images/product_kids_hoodie_1792250337762.jpg"
+      ],
+      "description": "Charming tiered smock dress made from breathable double-gauze cotton. Wooden back button closure and twirl-ready volume.",
+      "features": [
+        "Double gauze 100% cotton",
+        "Natural wood button back placket",
+        "Soft flutter sleeves",
+        "Knee-length relaxed cut"
+      ],
+      "fabricCare": "100% Cotton. Machine wash delicate.",
+      "isNewArrival": true,
+      "createdAt": "2026-02-16T12:00:00Z"
+    },
+    {
+      "id": "sb-kids-05",
+      "name": "Kids Minimalist Low-Top Canvas Sneakers",
+      "slug": "kids-minimalist-low-top-canvas-sneakers",
+      "department": "kids",
+      "category": "Shoes and Accessories",
+      "collection": "Minimal Essentials",
+      "price": 1399,
+      "originalPrice": 1999,
+      "discountPercent": 30,
+      "rating": 4.8,
+      "reviewCount": 47,
+      "colors": [
+        {
+          "name": "Chalk White",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand",
+          "hex": "#D8C7B5"
+        }
+      ],
+      "sizes": [
+        "UK 10C",
+        "UK 11C",
+        "UK 12C",
+        "UK 13C",
+        "UK 1"
+      ],
+      "stockByVariant": {
+        "UK 10C_Chalk White": 8,
+        "UK 11C_Chalk White": 12,
+        "UK 12C_Chalk White": 15,
+        "UK 13C_Chalk White": 10,
+        "UK 1_Chalk White": 8,
+        "UK 10C_Sand": 6,
+        "UK 11C_Sand": 10,
+        "UK 12C_Sand": 12,
+        "UK 13C_Sand": 8,
+        "UK 1_Sand": 6
+      },
+      "totalStock": 95,
+      "images": [
+        "/src/assets/images/product_minimal_sneaker_1792250337547.jpg",
+        "/src/assets/images/complete_the_look_bundle_1792250235277.jpg"
+      ],
+      "description": "Easy-on sneakers featuring a dual hook-and-loop velcro strap closure, non-marking rubber toe cap, and cushioned insole.",
+      "features": [
+        "Dual velcro closure for self-dressing",
+        "Reinforced rubber toe cap bumper",
+        "Grippy non-slip rubber outsole",
+        "Washable canvas upper"
+      ],
+      "fabricCare": "Wipe with damp cloth or gentle wash in mesh bag.",
+      "createdAt": "2026-01-26T14:00:00Z"
+    },
+    {
+      "id": "sb-men-12",
+      "name": "Organic Cotton Waffle Knit Long-Sleeve",
+      "slug": "organic-cotton-waffle-knit-long-sleeve",
+      "department": "men",
+      "category": "T-Shirts",
+      "collection": "Lounge Wear",
+      "price": 1199,
+      "originalPrice": 1699,
+      "discountPercent": 29,
+      "rating": 4.8,
+      "reviewCount": 86,
+      "colors": [
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "S_Sand Beige": 10,
+        "M_Sand Beige": 18,
+        "L_Sand Beige": 15,
+        "XL_Sand Beige": 8,
+        "S_Warm Cream": 12,
+        "M_Warm Cream": 20,
+        "L_Warm Cream": 16,
+        "XL_Warm Cream": 10,
+        "S_Jet Black": 14,
+        "M_Jet Black": 22,
+        "L_Jet Black": 18,
+        "XL_Jet Black": 8
+      },
+      "totalStock": 171,
+      "images": [
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg",
+        "/src/assets/images/product_linen_shirt_1792250335977.jpg"
+      ],
+      "description": "Textured thermal waffle knit engineered to trap warmth while maintaining micro-airflow. Relaxed fit with ribbed cuffs that stay pushed up.",
+      "features": [
+        "100% organic thermal waffle knit",
+        "Pre-washed for soft dimensional texture",
+        "Flatlock stitching",
+        "Ribbed cuffs"
+      ],
+      "fabricCare": "100% Organic Cotton. Machine wash cold.",
+      "createdAt": "2026-02-06T09:00:00Z"
+    },
+    {
+      "id": "sb-men-13",
+      "name": "Minimalist Mandarin Collar Kurta Shirt",
+      "slug": "minimalist-mandarin-collar-kurta-shirt",
+      "department": "men",
+      "category": "Ethnic Wear",
+      "collection": "Minimal Essentials",
+      "price": 1699,
+      "originalPrice": 2399,
+      "discountPercent": 29,
+      "rating": 4.9,
+      "reviewCount": 104,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockByVariant": {
+        "S_Warm Cream": 10,
+        "M_Warm Cream": 18,
+        "L_Warm Cream": 20,
+        "XL_Warm Cream": 12,
+        "XXL_Warm Cream": 6,
+        "S_Sand Beige": 8,
+        "M_Sand Beige": 15,
+        "L_Sand Beige": 16,
+        "XL_Sand Beige": 10,
+        "XXL_Sand Beige": 4,
+        "S_Olive Green": 8,
+        "M_Olive Green": 14,
+        "L_Olive Green": 15,
+        "XL_Olive Green": 8,
+        "XXL_Olive Green": 5
+      },
+      "totalStock": 179,
+      "images": [
+        "/src/assets/images/product_linen_shirt_1792250335977.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "A contemporary take on traditional Indian menswear. Short knee-skimming length with clean hidden button placket, side slits, and crisp standing band collar.",
+      "features": [
+        "Fine slub khadi cotton blend",
+        "Concealed button front",
+        "Side vents for mobility",
+        "Functional chest slip pocket"
+      ],
+      "fabricCare": "Cotton blend. Gentle machine wash in cold water.",
+      "isTrending": true,
+      "createdAt": "2026-02-11T14:00:00Z"
+    },
+    {
+      "id": "sb-women-09",
+      "name": "Contemporary Short Kurti in Slub Cotton",
+      "slug": "contemporary-short-kurti-in-slub-cotton",
+      "department": "women",
+      "category": "Ethnic Wear",
+      "collection": "Minimal Essentials",
+      "price": 1499,
+      "originalPrice": 2099,
+      "discountPercent": 29,
+      "rating": 4.8,
+      "reviewCount": 122,
+      "colors": [
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        },
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockByVariant": {
+        "XS_Olive Green": 8,
+        "S_Olive Green": 16,
+        "M_Olive Green": 20,
+        "L_Olive Green": 14,
+        "XL_Olive Green": 6,
+        "XS_Warm Cream": 10,
+        "S_Warm Cream": 18,
+        "M_Warm Cream": 22,
+        "L_Warm Cream": 15,
+        "XL_Warm Cream": 8,
+        "XS_Sand Beige": 7,
+        "S_Sand Beige": 15,
+        "M_Sand Beige": 18,
+        "L_Sand Beige": 12,
+        "XL_Sand Beige": 5
+      },
+      "totalStock": 194,
+      "images": [
+        "/src/assets/images/product_women_dress_1792250337609.jpg",
+        "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+      ],
+      "description": "Designed to pair seamlessly with our Pleated High-Waist Trousers or denim. Clean boat neckline, 3/4 sleeves, and subtle geometric kantha stitch accents.",
+      "features": [
+        "Natural slub cotton weave",
+        "Contemporary boat neckline",
+        "Side pocket inclusion",
+        "Modern straight tunic cut"
+      ],
+      "fabricCare": "100% Cotton. Wash separately in cold water.",
+      "isBestSeller": true,
+      "createdAt": "2026-01-27T10:00:00Z"
+    },
+    {
+      "id": "sb-women-10",
+      "name": "High-Rise Straight Leg Vintage Denim",
+      "slug": "high-rise-straight-leg-vintage-denim",
+      "department": "women",
+      "category": "Jeans",
+      "collection": "Urban Streetwear",
+      "price": 2299,
+      "originalPrice": 3299,
+      "discountPercent": 30,
+      "rating": 4.8,
+      "reviewCount": 140,
+      "colors": [
+        {
+          "name": "Sand Tint Washed",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        }
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "stockByVariant": {
+        "26_Sand Tint Washed": 10,
+        "28_Sand Tint Washed": 22,
+        "30_Sand Tint Washed": 20,
+        "32_Sand Tint Washed": 12,
+        "26_Jet Black": 12,
+        "28_Jet Black": 24,
+        "30_Jet Black": 22,
+        "32_Jet Black": 14
+      },
+      "totalStock": 136,
+      "images": [
+        "/src/assets/images/category_urban_streetwear_1792250236285.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "A structured non-stretch denim cut high on the waist with an authentic vintage silhouette that hugs the hips and falls straight down to the ankle.",
+      "features": [
+        "12.5 oz 100% cotton denim",
+        "High 11.5-inch rise",
+        "Classic 5-pocket construction",
+        "Copper shank button fly"
+      ],
+      "fabricCare": "100% Cotton. Wash inside out in cold water. Air dry.",
+      "createdAt": "2026-02-07T13:30:00Z"
+    },
+    {
+      "id": "sb-women-11",
+      "name": "Minimalist Leather Slide Sandals",
+      "slug": "minimalist-leather-slide-sandals",
+      "department": "women",
+      "category": "Shoes",
+      "collection": "Minimal Essentials",
+      "price": 1899,
+      "originalPrice": 2699,
+      "discountPercent": 30,
+      "rating": 4.7,
+      "reviewCount": 89,
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#171715"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "UK 4",
+        "UK 5",
+        "UK 6",
+        "UK 7",
+        "UK 8"
+      ],
+      "stockByVariant": {
+        "UK 4_Jet Black": 8,
+        "UK 5_Jet Black": 15,
+        "UK 6_Jet Black": 18,
+        "UK 7_Jet Black": 12,
+        "UK 8_Jet Black": 6,
+        "UK 4_Sand Beige": 6,
+        "UK 5_Sand Beige": 12,
+        "UK 6_Sand Beige": 16,
+        "UK 7_Sand Beige": 10,
+        "UK 8_Sand Beige": 5,
+        "UK 4_Olive Green": 5,
+        "UK 5_Olive Green": 10,
+        "UK 6_Olive Green": 12,
+        "UK 7_Olive Green": 8,
+        "UK 8_Olive Green": 4
+      },
+      "totalStock": 147,
+      "images": [
+        "/src/assets/images/product_women_dress_1792250337609.jpg",
+        "/src/assets/images/product_minimal_sneaker_1792250337547.jpg"
+      ],
+      "description": "Clean criss-cross straps in soft matte calfskin leather with a cushioned footbed and slim anti-slip rubber tread. Effortless summer footwear.",
+      "features": [
+        "Smooth calfskin leather straps",
+        "Ergonomic padded leather insole",
+        "Flexible rubber outsole",
+        "Square open-toe design"
+      ],
+      "fabricCare": "Leather cleaner and conditioner.",
+      "createdAt": "2026-02-13T15:00:00Z"
+    },
+    {
+      "id": "sb-women-12",
+      "name": "Relaxed Tailored Linen Overshirt",
+      "slug": "women-relaxed-tailored-linen-overshirt",
+      "department": "women",
+      "category": "Shirts",
+      "collection": "Minimal Essentials",
+      "price": 1899,
+      "originalPrice": 2699,
+      "discountPercent": 30,
+      "rating": 4.9,
+      "reviewCount": 96,
+      "colors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F7F3EE"
+        },
+        {
+          "name": "Sand Beige",
+          "hex": "#D8C7B5"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#30372B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stockByVariant": {
+        "XS_Warm Cream": 10,
+        "S_Warm Cream": 18,
+        "M_Warm Cream": 16,
+        "L_Warm Cream": 8,
+        "XS_Sand Beige": 8,
+        "S_Sand Beige": 15,
+        "M_Sand Beige": 14,
+        "L_Sand Beige": 6,
+        "XS_Olive Green": 7,
+        "S_Olive Green": 12,
+        "M_Olive Green": 12,
+        "L_Olive Green": 5
+      },
+      "totalStock": 126,
+      "images": [
+        "/src/assets/images/product_linen_shirt_1792250335977.jpg",
+        "/src/assets/images/hero_fashion_editorial_1792250234088.jpg"
+      ],
+      "description": "Lightweight pure flax overshirt designed for effortless layering over tanks or tees. Rounded high-low hem and dual flap chest pockets.",
+      "features": [
+        "100% French flax linen",
+        "Oversized layering silhouette",
+        "Curved high-low hemline",
+        "Natural horn-look buttons"
+      ],
+      "fabricCare": "100% Linen. Machine wash cold on gentle cycle.",
+      "isNewArrival": true,
+      "createdAt": "2026-02-18T14:00:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-878923",
+      "orderNumber": "SB-2026-7837",
+      "userId": "customer-live-test",
+      "customerName": "Aarav Mehra",
+      "customerEmail": "aarav.mehra@example.com",
+      "customerPhone": "+91 98111 22334",
+      "shippingAddress": {
+        "fullName": "Aarav Mehra",
+        "address": "Flat 402, Signature Towers",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "pincode": "122002",
+        "phone": "+91 98111 22334"
+      },
+      "items": [
+        {
+          "productId": "sb-men-hoodie-zip-01",
+          "name": "Heavyweight Dual-Zip Fleece Hoodie",
+          "price": 2899,
+          "quantity": 1,
+          "size": "L",
+          "color": "Washed Charcoal"
+        }
+      ],
+      "subtotal": 1499,
+      "discount": 0,
+      "shippingFee": 0,
+      "codFee": 49,
+      "total": 1548,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "confirmed",
+      "carrier": "Delhivery Surface Express",
+      "trackingNumber": "DEL-IND-75402732",
+      "estimatedDelivery": "6 Nov 2026",
+      "createdAt": "2026-11-02T16:11:18.943Z",
+      "trackingHistory": [
+        {
+          "status": "placed",
+          "title": "Order Placed",
+          "description": "Order placed with Cash on Delivery verification.",
+          "timestamp": "02/11/26, 4:11 pm",
+          "location": "Online Store"
+        },
+        {
+          "status": "confirmed",
+          "title": "Confirmed by Fulfillment Team",
+          "description": "Ready to be picked and packaged at Bengaluru Fulfillment Center.",
+          "timestamp": "02/11/26, 4:11 pm",
+          "location": "Bengaluru Fulfillment Center"
+        }
+      ]
+    },
+    {
+      "id": "ord-147985",
+      "orderNumber": "SB-2026-1989",
+      "userId": "guest",
+      "customerName": "Jatin",
+      "customerEmail": "jatinmanchanda53@gmail.com",
+      "customerPhone": "9416913881",
+      "shippingAddress": {
+        "id": "addr-1793633147782",
+        "fullName": "Jatin",
+        "phone": "9416913881",
+        "addressLine1": "old market read",
+        "addressLine2": "kaithal",
+        "city": "kaithal",
+        "state": "haryana",
+        "pincode": "136027"
+      },
+      "items": [
+        {
+          "productId": "sb-men-07",
+          "name": "Multi-Pocket Tactical Utility Cargo Pants",
+          "size": "28",
+          "color": "Jet Black",
+          "price": 1699,
+          "quantity": 1,
+          "image": "/images/cargopants/cargo_black.jpeg"
+        }
+      ],
+      "subtotal": 1699,
+      "discount": 0,
+      "shippingFee": 0,
+      "codFee": 49,
+      "total": 1748,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "confirmed",
+      "carrier": "Delhivery Surface Express",
+      "trackingNumber": "DEL-IND-58090759",
+      "estimatedDelivery": "6 Nov 2026",
+      "createdAt": "2026-11-02T15:25:47.985Z",
+      "trackingHistory": [
+        {
+          "status": "placed",
+          "title": "Order Placed",
+          "description": "Order placed with Cash on Delivery verification.",
+          "timestamp": "02/11/26, 3:25 pm",
+          "location": "Online Store"
+        },
+        {
+          "status": "confirmed",
+          "title": "Confirmed by Fulfillment Team",
+          "description": "Ready to be picked and packaged at Bengaluru Fulfillment Center.",
+          "timestamp": "02/11/26, 3:25 pm",
+          "location": "Bengaluru Fulfillment Center"
+        }
+      ]
+    },
+    {
+      "id": "ord-1042",
+      "orderNumber": "SB-2026-1042",
+      "userId": "user-demo-rahul",
+      "customerName": "Rahul Sharma",
+      "customerEmail": "rahul.sharma@example.com",
+      "customerPhone": "+91 98201 12345",
+      "shippingAddress": {
+        "id": "addr-rahul-home",
+        "fullName": "Rahul Sharma",
+        "phone": "+91 98201 12345",
+        "addressLine1": "Flat 402, Sunshine Heights, Bandra West",
+        "addressLine2": "Near Hill Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050"
+      },
+      "items": [
+        {
+          "productId": "sb-men-01",
+          "name": "Heavyweight Boxy Crewneck Tee",
+          "size": "L",
+          "color": "Warm Cream",
+          "price": 999,
+          "quantity": 1,
+          "image": "/src/assets/images/category_everyday_essentials_1792250234342.jpg"
+        },
+        {
+          "productId": "sb-men-03",
+          "name": "Pleated Straight Leg Chino Trousers",
+          "size": "32",
+          "color": "Sand",
+          "price": 1999,
+          "quantity": 1,
+          "image": "/src/assets/images/complete_the_look_bundle_1792250235277.jpg"
+        }
+      ],
+      "subtotal": 2998,
+      "discount": 300,
+      "couponCode": "FIRSTBUY",
+      "shippingFee": 0,
+      "codFee": 0,
+      "total": 2698,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "paymentId": "pay_Nzk8174928174",
+      "status": "delivered",
+      "trackingNumber": "DEL-IND-99418241",
+      "carrier": "Blue Dart Express",
+      "estimatedDelivery": "Feb 12, 2026",
+      "createdAt": "2026-02-08T14:30:00Z",
+      "trackingHistory": [
+        {
+          "status": "placed",
+          "title": "Order Placed",
+          "description": "Your order was successfully placed and payment verified via Razorpay.",
+          "timestamp": "2026-02-08 14:30",
+          "location": "Online"
+        },
+        {
+          "status": "confirmed",
+          "title": "Order Confirmed",
+          "description": "Verified with our fulfillment center in Bengaluru.",
+          "timestamp": "2026-02-08 15:15",
+          "location": "Bengaluru Hub"
+        },
+        {
+          "status": "shipped",
+          "title": "Dispatched via Blue Dart",
+          "description": "Package in transit with AWB #DEL-IND-99418241.",
+          "timestamp": "2026-02-09 10:00",
+          "location": "Bengaluru Sort Facility"
+        },
+        {
+          "status": "out_for_delivery",
+          "title": "Out for Delivery",
+          "description": "Courier executive assigned for delivery in Bandra West.",
+          "timestamp": "2026-02-12 09:30",
+          "location": "Mumbai Bandra Hub"
+        },
+        {
+          "status": "delivered",
+          "title": "Delivered",
+          "description": "Handed over directly to customer. Thank you for choosing SMART BUY!",
+          "timestamp": "2026-02-12 14:20",
+          "location": "Mumbai 400050"
+        },
+        {
+          "status": "delivered",
+          "title": "Status: DELIVERED",
+          "description": "Order status updated to delivered.",
+          "timestamp": "02/11/26, 3:02 pm",
+          "location": "Central Fulfillment Facility, Gurugram"
+        }
+      ]
+    },
+    {
+      "id": "ord-1088",
+      "orderNumber": "SB-2026-1088",
+      "userId": "user-demo-rahul",
+      "customerName": "Rahul Sharma",
+      "customerEmail": "rahul.sharma@example.com",
+      "customerPhone": "+91 98201 12345",
+      "shippingAddress": {
+        "id": "addr-rahul-home",
+        "fullName": "Rahul Sharma",
+        "phone": "+91 98201 12345",
+        "addressLine1": "Flat 402, Sunshine Heights, Bandra West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050"
+      },
+      "items": [
+        {
+          "productId": "sb-men-02",
+          "name": "Relaxed Tailored Linen Shirt",
+          "size": "L",
+          "color": "Sand Beige",
+          "price": 1899,
+          "quantity": 1,
+          "image": "/src/assets/images/product_linen_shirt_1792250335977.jpg"
+        }
+      ],
+      "subtotal": 1899,
+      "discount": 190,
+      "couponCode": "SMART10",
+      "shippingFee": 0,
+      "codFee": 0,
+      "total": 1709,
+      "paymentMethod": "upi",
+      "paymentStatus": "paid",
+      "paymentId": "upi_razor_88194",
+      "status": "cancelled",
+      "trackingNumber": "DEL-IND-88231011",
+      "carrier": "Delhivery Surface",
+      "estimatedDelivery": "Oct 21, 2026",
+      "createdAt": "2026-10-16T11:15:00Z",
+      "trackingHistory": [
+        {
+          "status": "placed",
+          "title": "Order Placed",
+          "description": "Payment authorized via UPI.",
+          "timestamp": "2026-10-16 11:15",
+          "location": "Online"
+        },
+        {
+          "status": "confirmed",
+          "title": "Order Verified",
+          "description": "Allocated from fulfillment center.",
+          "timestamp": "2026-10-16 12:00",
+          "location": "Bengaluru Hub"
+        },
+        {
+          "status": "shipped",
+          "title": "In Transit",
+          "description": "Dispatched to regional hub.",
+          "timestamp": "2026-10-17 06:45",
+          "location": "En route to Mumbai Hub"
+        },
+        {
+          "status": "cancelled",
+          "title": "Status: CANCELLED",
+          "description": "Order status updated to cancelled.",
+          "timestamp": "02/11/26, 3:04 pm",
+          "location": "Central Fulfillment Facility, Gurugram"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "user-demo-rahul",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "phone": "+91 98201 12345",
+      "role": "customer",
+      "savedAddresses": [
+        {
+          "id": "addr-rahul-home",
+          "fullName": "Rahul Sharma",
+          "phone": "+91 98201 12345",
+          "addressLine1": "Flat 402, Sunshine Heights, Bandra West",
+          "addressLine2": "Near Hill Road",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pincode": "400050",
+          "isDefault": true
+        },
+        {
+          "id": "addr-rahul-work",
+          "fullName": "Rahul Sharma (Office)",
+          "phone": "+91 98201 12345",
+          "addressLine1": "Unit 7, Peninsula Business Park, Lower Parel",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pincode": "400013",
+          "isDefault": false
+        }
+      ],
+      "createdAt": "2026-01-10T10:00:00Z"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "SMART10",
+      "discountType": "percentage",
+      "value": 10,
+      "minOrderAmount": 999,
+      "description": "10% off on all orders above ₹999",
+      "isActive": true
+    },
+    {
+      "code": "WELCOME20",
+      "discountType": "percentage",
+      "value": 20,
+      "minOrderAmount": 1999,
+      "description": "20% off on your wardrobe upgrade above ₹1,999",
+      "isActive": true
+    },
+    {
+      "code": "FIRSTBUY",
+      "discountType": "flat",
+      "value": 300,
+      "minOrderAmount": 1499,
+      "description": "Flat ₹300 off on your first purchase above ₹1,499",
+      "isActive": true
+    },
+    {
+      "code": "SMARTLOOK",
+      "discountType": "percentage",
+      "value": 15,
+      "minOrderAmount": 2499,
+      "description": "Extra 15% off on orders above ₹2,499",
+      "isActive": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "productId": "sb-men-01",
+      "author": "Aakash Verma",
+      "city": "New Delhi",
+      "rating": 5,
+      "date": "February 10, 2026",
+      "comment": "The collar ribbing and 260 GSM fabric are unmatched at this ₹999 price point. It has the exact boxy drape of international high-end brands.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-02",
+      "productId": "sb-men-01",
+      "author": "Vikram Mehta",
+      "city": "Bengaluru",
+      "rating": 5,
+      "date": "February 04, 2026",
+      "comment": "Super fast delivery to Indiranagar! The Warm Cream shade looks so clean and rich in daylight. Already ordered 2 more colors.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-03",
+      "productId": "sb-women-01",
+      "author": "Priya Iyer",
+      "city": "Chennai",
+      "rating": 5,
+      "date": "January 28, 2026",
+      "comment": "Real Normandy linen! The olive green is subtle, earthy, and not loud. Pockets are roomy enough for my phone.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "rev-04",
+      "productId": "sb-men-04",
+      "author": "Rohan Singhania",
+      "city": "Mumbai",
+      "rating": 5,
+      "date": "January 22, 2026",
+      "comment": "Wore these sneakers for an entire weekend in Bandra without any blister or discomfort. Memory foam footbed is sensational.",
+      "verifiedPurchase": true
+    }
+  ],
+  "settings": {
+    "storeName": "SMART BUY",
+    "tagline": "Your Style. Your Choice. Smart Buy.",
+    "supportEmail": "care@smartbuy.in",
+    "supportPhone": "+91 1800-209-8899",
+    "supportAddress": "SMART BUY Apparel Studio, 4th Floor, Indiranagar 100ft Road, Bengaluru, Karnataka 560038, India",
+    "freeShippingThreshold": 999,
+    "standardShippingFee": 99,
+    "codAvailable": true,
+    "codFee": 49,
+    "returnWindowDays": 14
+  },
+  "subscribers": []
+}

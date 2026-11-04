@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      // Polyfill window.fetch setter to prevent errors from browser extensions that attempt `window.fetch = ...`
+      (function() {
+        try {
+          var currentFetch = window.fetch ? window.fetch.bind(window) : undefined;
+          Object.defineProperty(window, 'fetch', {
+            get: function() {
+              return currentFetch;
+            },
+            set: function(fn) {
+              currentFetch = fn;
+            },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (e) {
+          // ignore if already non-configurable
+        }
+
+        // Suppress unhandled runtime exceptions from third-party browser extensions
+        window.addEventListener('error', function(event) {
+          if (event && event.filename && event.filename.indexOf('chrome-extension://') !== -1) {
+            event.preventDefault();
+            event.stopPropagation();
+            return true;
+          }
+        }, true);
+      })();
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SMART BUY — Your Style. Your Choice. Smart Buy.</title>
+    <meta name="description" content="Premium minimalist fashion e-commerce brand for everyday essentials, streetwear, and modern style at smart prices." />
+    <meta property="og:title" content="SMART BUY — Your Style. Your Choice. Smart Buy." />
+    <meta property="og:description" content="Premium minimalist fashion e-commerce brand for everyday essentials, streetwear, and modern style at smart prices." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-[#F7F3EE] text-[#171715] antialiased selection:bg-[#30372B] selection:text-[#F7F3EE]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
